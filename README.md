@@ -17,6 +17,8 @@ It reads student preference data from a CSV file, cleans the data, and then atte
 3.  **Output:** The script prints the schedule and summary to the console, and generates the following two CSV files in the same directory:
     * **`LabOp_Schedule.csv`**: The final schedule in a **calendar (wide) format** (Time as rows, Day as columns).
     * **`LabOp_Schedule_Long.csv`**: The final schedule in a **long format** (Time Slot as rows, Student columns).
+    * **`LabOp_Student_Summary.csv`**: A summary file detailing the **hours scheduled for each student**.
+
 
 ---
 
