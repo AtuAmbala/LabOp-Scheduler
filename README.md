@@ -12,7 +12,7 @@ It reads student preference data from a CSV file, cleans the data, and then atte
     `LabOp Timeslot Preference Selection Form - Filled.csv`
 2.  **Run:** Execute the script from your terminal:
     ```bash
-    python your_script_name.py
+    python LabOp_Optimizer.py
     ```
 3.  **Output:** The script prints the schedule and summary to the console, and generates the following two CSV files in the same directory:
     * **`LabOp_Schedule.csv`**: The final schedule in a **calendar (wide) format** (Time as rows, Day as columns).
