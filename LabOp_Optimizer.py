@@ -333,7 +333,55 @@ def export_calendar_schedule(schedule_dict: Dict[str, List[str]], export_path: s
     calendar_df.to_csv(export_path, index=False)
     print(f"\n--- Exported Calendar Schedule to {export_path} ---")
 
+def export_student_schedule_list(schedule_dict: Dict[str, List[str]], filepath: str, max_hours: int):
+    """
+    Exports the schedule as a list of hours assigned to each student.
+    Format: Student, Hour 1, Hour 2, ...
+    """
+    student_hours_map = defaultdict(list)
+    
+    # Populate map: Student -> [Slot 1, Slot 2, ...]
+    for slot, students in schedule_dict.items():
+        for student in students:
+            if student: # Check if the slot was actually assigned
+                student_hours_map[student].append(slot)
+    
+    # Build DataFrame records
+    records = []
+    
+    # Create the column headers dynamically (e.g., 'Hour 1', 'Hour 2')
+    hour_columns = [f'Hour {i+1}' for i in range(max_hours)]
+    
+    for student, slots in student_hours_map.items():
+        record = {'Student': student}
+        
+        # Fill in assigned hours
+        for i, slot in enumerate(slots):
+            if i < max_hours: # Ensure we don't exceed the defined max columns
+                record[hour_columns[i]] = slot
+                
+        # Fill remaining hour columns with empty string if the student has less than max_hours
+        for i in range(len(slots), max_hours):
+            record[hour_columns[i]] = ''
+            
+        records.append(record)
 
+    student_summary_df = pd.DataFrame(records)
+    
+    # Ensure all required columns are present, even if a student has no hours
+    required_cols = ['Student'] + hour_columns
+    for col in required_cols:
+        if col not in student_summary_df.columns:
+            student_summary_df[col] = ''
+            
+    # Sort to ensure proper column order
+    student_summary_df = student_summary_df[required_cols]
+
+    # Export
+    student_summary_df.to_csv(filepath, index=False)
+    print(f"---Exported Student Summary List to {filepath}---")
+    
+    
 if __name__ == '__main__':
     # 1. Define time slots based on lab hours
     all_slots = generate_time_slots()
@@ -362,8 +410,11 @@ if __name__ == '__main__':
         
         # Export 5a: Calendar Format (requested format)
         export_calendar_schedule(schedule_dict, 'LabOp_Schedule.csv')
-        
-        # Export 5b: Long Format (original format)
+
+        # Export 5b: Student Schedule List
+        export_student_schedule_list(schedule_dict, 'LabOp_Student_Schedule.csv', max_hours=MAX_HOURS_PER_STUDENT)
+
+        # Export 5c: Long Format (original format)
         schedule_long_df.to_csv('LabOp_Schedule_Long.csv', index=False)
         print("--- Exported Long Format Schedule to LabOp_Schedule_Long.csv ---")
 
