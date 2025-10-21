@@ -1,55 +1,55 @@
-Student,Hour 1,Hour 2
-Sudipto Ghosh,Monday 9 AM - 10 AM,Thursday 1 PM - 2 PM
-Student_36 Name,Monday 9 AM - 10 AM,Thursday 4 PM - 5 PM
-Student_22 Name,Monday 10 AM - 11 AM,Friday 2 PM - 3 PM
-Student_46 Name,Monday 10 AM - 11 AM,Thursday 7 PM - 8 PM
-Student_33 Name,Monday 11 AM - 12 PM,Tuesday 6 PM - 7 PM
-Student_20 Name,Monday 11 AM - 12 PM,Friday 12 PM - 1 PM
-Student_27 Name,Monday 12 PM - 1 PM,Sunday 3 PM - 4 PM
-Student_50 Name,Monday 12 PM - 1 PM,Tuesday 9 AM - 10 AM
-Student_23 Name,Monday 1 PM - 2 PM,Sunday 1 PM - 2 PM
-Student_45 Name,Monday 1 PM - 2 PM,Wednesday 2 PM - 3 PM
-Student_09 Name,Monday 2 PM - 3 PM,Sunday 12 PM - 1 PM
-Student_32 Name,Monday 2 PM - 3 PM,Saturday 1 PM - 2 PM
-Student_06 Name,Monday 3 PM - 4 PM,Saturday 2 PM - 3 PM
-Student_40 Name,Monday 3 PM - 4 PM,Monday 8 PM - 9 PM
-Student_38 Name,Monday 4 PM - 5 PM,Sunday 1 PM - 2 PM
-Student_48 Name,Monday 4 PM - 5 PM,Saturday 3 PM - 4 PM
-Student_17 Name,Monday 5 PM - 6 PM,Friday 2 PM - 3 PM
-Student_37 Name,Monday 5 PM - 6 PM,Wednesday 1 PM - 2 PM
-Atu Ambala,Monday 6 PM - 7 PM,Thursday 5 PM - 6 PM
-Student_16 Name,Monday 6 PM - 7 PM,Friday 1 PM - 2 PM
-Student_29 Name,Monday 7 PM - 8 PM,Thursday 2 PM - 3 PM
-﻿Name,Monday 7 PM - 8 PM,Thursday 10 AM - 11 AM
-Student_42 Name,Monday 8 PM - 9 PM,Wednesday 6 PM - 7 PM
-Maximilian Rose,Tuesday 10 AM - 11 AM,Saturday 12 PM - 1 PM
-Student_01 Name,Tuesday 10 AM - 11 AM,Saturday 1 PM - 2 PM
-Student_39 Name,Tuesday 11 AM - 12 PM,Thursday 10 AM - 11 AM
-Student_13 Name,Tuesday 12 PM - 1 PM,Thursday 2 PM - 3 PM
-Student_19 Name,Tuesday 12 PM - 1 PM,Friday 3 PM - 4 PM
-Student_11 Name,Tuesday 1 PM - 2 PM,Saturday 12 PM - 1 PM
-Student_04 Name,Tuesday 2 PM - 3 PM,Friday 11 AM - 12 PM
-Student_35 Name,Tuesday 2 PM - 3 PM,Sunday 4 PM - 5 PM
-Student_25 Name,Tuesday 3 PM - 4 PM,Wednesday 12 PM - 1 PM
-Student_49 Name,Tuesday 4 PM - 5 PM,Wednesday 5 PM - 6 PM
-Student_28 Name,Tuesday 5 PM - 6 PM,Friday 9 AM - 10 AM
-Student_31 Name,Tuesday 5 PM - 6 PM,Friday 10 AM - 11 AM
-Student_18 Name,Tuesday 7 PM - 8 PM,Thursday 12 PM - 1 PM
-Student_24 Name,Tuesday 8 PM - 9 PM,Friday 12 PM - 1 PM
-Student_07 Name,Wednesday 9 AM - 10 AM,Thursday 9 AM - 10 AM
-Student_30 Name,Wednesday 10 AM - 11 AM,Thursday 8 PM - 9 PM
-Student_43 Name,Wednesday 10 AM - 11 AM,Thursday 5 PM - 6 PM
-Student_03 Name,Wednesday 11 AM - 12 PM,Wednesday 4 PM - 5 PM
-Student_05 Name,Wednesday 12 PM - 1 PM,Wednesday 8 PM - 9 PM
-Student_12 Name,Wednesday 1 PM - 2 PM,Friday 11 AM - 12 PM
-Student_15 Name,Wednesday 3 PM - 4 PM,Friday 3 PM - 4 PM
-Student_02 Name,Wednesday 4 PM - 5 PM,Sunday 2 PM - 3 PM
-Student_26 Name,Wednesday 7 PM - 8 PM,Thursday 11 AM - 12 PM
-Student_21 Name,Thursday 9 AM - 10 AM,Thursday 6 PM - 7 PM
-Student_44 Name,Thursday 11 AM - 12 PM,Sunday 3 PM - 4 PM
-Student_47 Name,Thursday 12 PM - 1 PM,Sunday 4 PM - 5 PM
-Student_41 Name,Thursday 1 PM - 2 PM,Saturday 3 PM - 4 PM
-Student_10 Name,Thursday 3 PM - 4 PM,Saturday 2 PM - 3 PM
-Student_14 Name,Thursday 4 PM - 5 PM,Sunday 12 PM - 1 PM
-Student_34 Name,Friday 9 AM - 10 AM,Friday 10 AM - 11 AM
-Student_08 Name,Friday 1 PM - 2 PM,Sunday 2 PM - 3 PM
+Student,Hour 1,Hour 2,Hour 3
+Sudipto Ghosh,Monday 9 AM - 10 AM,Thursday 1 PM - 2 PM,
+Student_36 Name,Monday 9 AM - 10 AM,Wednesday 9 AM - 10 AM,Thursday 6 PM - 7 PM
+Student_22 Name,Monday 10 AM - 11 AM,Friday 2 PM - 3 PM,
+Student_46 Name,Monday 10 AM - 11 AM,Friday 10 AM - 11 AM,
+Maximilian Rose,Monday 11 AM - 12 PM,Saturday 12 PM - 1 PM,Saturday 3 PM - 4 PM
+Student_03 Name,Monday 11 AM - 12 PM,Wednesday 4 PM - 5 PM,
+Student_27 Name,Monday 12 PM - 1 PM,Tuesday 11 AM - 12 PM,Sunday 3 PM - 4 PM
+Student_01 Name,Monday 12 PM - 1 PM,Tuesday 10 AM - 11 AM,
+Student_23 Name,Monday 1 PM - 2 PM,Sunday 1 PM - 2 PM,
+Student_39 Name,Monday 1 PM - 2 PM,Tuesday 11 AM - 12 PM,
+Student_09 Name,Monday 2 PM - 3 PM,Wednesday 6 PM - 7 PM,Sunday 12 PM - 1 PM
+Student_32 Name,Monday 2 PM - 3 PM,Thursday 7 PM - 8 PM,Saturday 1 PM - 2 PM
+Student_06 Name,Monday 3 PM - 4 PM,Wednesday 5 PM - 6 PM,Saturday 2 PM - 3 PM
+Student_40 Name,Monday 3 PM - 4 PM,Wednesday 11 AM - 12 PM,Wednesday 5 PM - 6 PM
+Student_38 Name,Monday 4 PM - 5 PM,Wednesday 3 PM - 4 PM,Sunday 1 PM - 2 PM
+Student_48 Name,Monday 4 PM - 5 PM,Tuesday 1 PM - 2 PM,Wednesday 7 PM - 8 PM
+Student_17 Name,Monday 5 PM - 6 PM,Friday 2 PM - 3 PM,
+Student_28 Name,Monday 5 PM - 6 PM,Tuesday 5 PM - 6 PM,
+Atu Ambala,Monday 6 PM - 7 PM,Thursday 5 PM - 6 PM,
+Student_16 Name,Monday 6 PM - 7 PM,Friday 1 PM - 2 PM,
+Student_29 Name,Monday 7 PM - 8 PM,Thursday 3 PM - 4 PM,
+Student_05 Name,Monday 7 PM - 8 PM,Wednesday 12 PM - 1 PM,Thursday 8 PM - 9 PM
+Student_42 Name,Monday 8 PM - 9 PM,Tuesday 4 PM - 5 PM,Wednesday 8 PM - 9 PM
+Student_43 Name,Monday 8 PM - 9 PM,Tuesday 8 PM - 9 PM,Wednesday 10 AM - 11 AM
+Student_50 Name,Tuesday 9 AM - 10 AM,Thursday 11 AM - 12 PM,
+Student_18 Name,Tuesday 9 AM - 10 AM,Thursday 12 PM - 1 PM,Thursday 7 PM - 8 PM
+Student_33 Name,Tuesday 10 AM - 11 AM,Thursday 8 PM - 9 PM,
+Student_13 Name,Tuesday 12 PM - 1 PM,Thursday 2 PM - 3 PM,
+Student_19 Name,Tuesday 12 PM - 1 PM,Friday 3 PM - 4 PM,
+Student_11 Name,Tuesday 1 PM - 2 PM,Saturday 12 PM - 1 PM,
+Student_04 Name,Tuesday 2 PM - 3 PM,Friday 11 AM - 12 PM,
+Student_35 Name,Tuesday 2 PM - 3 PM,Saturday 1 PM - 2 PM,
+Student_44 Name,Tuesday 3 PM - 4 PM,Tuesday 6 PM - 7 PM,Sunday 3 PM - 4 PM
+Student_14 Name,Tuesday 3 PM - 4 PM,Thursday 4 PM - 5 PM,Sunday 12 PM - 1 PM
+Student_49 Name,Tuesday 4 PM - 5 PM,Thursday 12 PM - 1 PM,
+Student_31 Name,Tuesday 5 PM - 6 PM,Friday 10 AM - 11 AM,
+Student_21 Name,Tuesday 6 PM - 7 PM,Thursday 9 AM - 10 AM,
+Student_25 Name,Tuesday 7 PM - 8 PM,Wednesday 12 PM - 1 PM,
+Student_47 Name,Tuesday 7 PM - 8 PM,Wednesday 11 AM - 12 PM,Sunday 4 PM - 5 PM
+Student_24 Name,Tuesday 8 PM - 9 PM,Friday 12 PM - 1 PM,
+Student_20 Name,Wednesday 9 AM - 10 AM,Thursday 4 PM - 5 PM,Friday 12 PM - 1 PM
+Student_30 Name,Wednesday 10 AM - 11 AM,Friday 9 AM - 10 AM,
+Student_12 Name,Wednesday 1 PM - 2 PM,Friday 11 AM - 12 PM,
+Student_37 Name,Wednesday 1 PM - 2 PM,Wednesday 6 PM - 7 PM,Wednesday 8 PM - 9 PM
+Student_08 Name,Wednesday 2 PM - 3 PM,Friday 1 PM - 2 PM,Sunday 2 PM - 3 PM
+Student_45 Name,Wednesday 2 PM - 3 PM,Thursday 6 PM - 7 PM,
+Student_15 Name,Wednesday 3 PM - 4 PM,Wednesday 7 PM - 8 PM,Friday 3 PM - 4 PM
+Student_02 Name,Wednesday 4 PM - 5 PM,Sunday 2 PM - 3 PM,
+Student_07 Name,Thursday 9 AM - 10 AM,Thursday 2 PM - 3 PM,
+﻿Name,Thursday 10 AM - 11 AM,Thursday 5 PM - 6 PM,
+Student_34 Name,Thursday 10 AM - 11 AM,Friday 9 AM - 10 AM,
+Student_26 Name,Thursday 11 AM - 12 PM,Sunday 4 PM - 5 PM,
+Student_41 Name,Thursday 1 PM - 2 PM,Saturday 3 PM - 4 PM,
+Student_10 Name,Thursday 3 PM - 4 PM,Saturday 2 PM - 3 PM,

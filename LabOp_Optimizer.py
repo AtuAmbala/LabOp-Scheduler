@@ -9,7 +9,7 @@ from typing import List, Dict, Tuple, Any
 SLOTS_PER_HOUR = 2
 
 # The maximum number of hours a student should be assigned for the week.
-MAX_HOURS_PER_STUDENT = 2
+MAX_HOURS_PER_STUDENT = 3
 
 # --- Time Slot Definitions ---
 
