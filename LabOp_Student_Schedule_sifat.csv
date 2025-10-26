@@ -1,105 +1,51 @@
 Student,Hour 1,Hour 2,Hour 3
-﻿Name,Wednesday 11 AM - 12 PM,Wednesday 5 PM - 6 PM,
-Sudipto Ghosh,Wednesday 7 PM - 8 PM,Thursday 5 PM - 6 PM,
-Atu Ambala,Wednesday 11 AM - 12 PM,Thursday 5 PM - 6 PM,
-Maximilian Rose,Wednesday 5 PM - 6 PM,Wednesday 7 PM - 8 PM,
-Student_01 Name,Tuesday 10 AM - 11 AM,Wednesday 6 PM - 7 PM,Tuesday 10 AM - 11 AM,Wednesday 6 PM - 7 PM
-Student_01 Name,Tuesday 10 AM - 11 AM,Wednesday 6 PM - 7 PM,Tuesday 10 AM - 11 AM,Wednesday 6 PM - 7 PM
-Student_02 Name,Wednesday 4 PM - 5 PM,Sunday 4 PM - 5 PM,Wednesday 4 PM - 5 PM,Sunday 4 PM - 5 PM
-Student_02 Name,Wednesday 4 PM - 5 PM,Sunday 4 PM - 5 PM,Wednesday 4 PM - 5 PM,Sunday 4 PM - 5 PM
-Student_03 Name,Monday 11 AM - 12 PM,Thursday 10 AM - 11 AM,Monday 11 AM - 12 PM,Thursday 10 AM - 11 AM
-Student_03 Name,Monday 11 AM - 12 PM,Thursday 10 AM - 11 AM,Monday 11 AM - 12 PM,Thursday 10 AM - 11 AM
-Student_04 Name,,,
-Student_04 Name,,,
-Student_05 Name,,,
-Student_05 Name,,,
-Student_06 Name,,,
-Student_06 Name,,,
-Student_07 Name,Sunday 1 PM - 2 PM,Sunday 1 PM - 2 PM,
-Student_07 Name,Sunday 1 PM - 2 PM,Sunday 1 PM - 2 PM,
-Student_08 Name,,,
-Student_08 Name,,,
-Student_09 Name,Monday 2 PM - 3 PM,Thursday 6 PM - 7 PM,Monday 2 PM - 3 PM,Thursday 6 PM - 7 PM
-Student_09 Name,Monday 2 PM - 3 PM,Thursday 6 PM - 7 PM,Monday 2 PM - 3 PM,Thursday 6 PM - 7 PM
-Student_10 Name,Thursday 3 PM - 4 PM,Thursday 3 PM - 4 PM,
-Student_10 Name,Thursday 3 PM - 4 PM,Thursday 3 PM - 4 PM,
-Student_11 Name,Tuesday 1 PM - 2 PM,Tuesday 1 PM - 2 PM,
-Student_11 Name,Tuesday 1 PM - 2 PM,Tuesday 1 PM - 2 PM,
-Student_12 Name,Friday 11 AM - 12 PM,Friday 11 AM - 12 PM,
-Student_12 Name,Friday 11 AM - 12 PM,Friday 11 AM - 12 PM,
-Student_13 Name,Tuesday 12 PM - 1 PM,Tuesday 12 PM - 1 PM,
-Student_13 Name,Tuesday 12 PM - 1 PM,Tuesday 12 PM - 1 PM,
-Student_14 Name,Thursday 4 PM - 5 PM,Sunday 2 PM - 3 PM,Thursday 4 PM - 5 PM,Sunday 2 PM - 3 PM
-Student_14 Name,Thursday 4 PM - 5 PM,Sunday 2 PM - 3 PM,Thursday 4 PM - 5 PM,Sunday 2 PM - 3 PM
-Student_15 Name,Wednesday 3 PM - 4 PM,Wednesday 3 PM - 4 PM,
-Student_15 Name,Wednesday 3 PM - 4 PM,Wednesday 3 PM - 4 PM,
-Student_16 Name,Monday 6 PM - 7 PM,Monday 6 PM - 7 PM,
-Student_16 Name,Monday 6 PM - 7 PM,Monday 6 PM - 7 PM,
-Student_17 Name,Monday 5 PM - 6 PM,Monday 5 PM - 6 PM,
-Student_17 Name,Monday 5 PM - 6 PM,Monday 5 PM - 6 PM,
-Student_18 Name,Wednesday 8 PM - 9 PM,Thursday 8 PM - 9 PM,Wednesday 8 PM - 9 PM,Thursday 8 PM - 9 PM
-Student_18 Name,Wednesday 8 PM - 9 PM,Thursday 8 PM - 9 PM,Wednesday 8 PM - 9 PM,Thursday 8 PM - 9 PM
-Student_19 Name,,,
-Student_19 Name,,,
-Student_20 Name,,,
-Student_20 Name,,,
-Student_21 Name,Thursday 9 AM - 10 AM,Friday 1 PM - 2 PM,Thursday 9 AM - 10 AM,Friday 1 PM - 2 PM
-Student_21 Name,Thursday 9 AM - 10 AM,Friday 1 PM - 2 PM,Thursday 9 AM - 10 AM,Friday 1 PM - 2 PM
-Student_22 Name,Monday 10 AM - 11 AM,Thursday 12 PM - 1 PM,Monday 10 AM - 11 AM,Thursday 12 PM - 1 PM
-Student_22 Name,Monday 10 AM - 11 AM,Thursday 12 PM - 1 PM,Monday 10 AM - 11 AM,Thursday 12 PM - 1 PM
-Student_23 Name,Monday 1 PM - 2 PM,Monday 1 PM - 2 PM,
-Student_23 Name,Monday 1 PM - 2 PM,Monday 1 PM - 2 PM,
-Student_24 Name,Tuesday 8 PM - 9 PM,Tuesday 8 PM - 9 PM,
-Student_24 Name,Tuesday 8 PM - 9 PM,Tuesday 8 PM - 9 PM,
-Student_25 Name,Wednesday 12 PM - 1 PM,Wednesday 12 PM - 1 PM,
-Student_25 Name,Wednesday 12 PM - 1 PM,Wednesday 12 PM - 1 PM,
-Student_26 Name,Thursday 11 AM - 12 PM,Thursday 11 AM - 12 PM,
-Student_26 Name,Thursday 11 AM - 12 PM,Thursday 11 AM - 12 PM,
-Student_27 Name,Monday 12 PM - 1 PM,Saturday 3 PM - 4 PM,Monday 12 PM - 1 PM,Saturday 3 PM - 4 PM
-Student_27 Name,Monday 12 PM - 1 PM,Saturday 3 PM - 4 PM,Monday 12 PM - 1 PM,Saturday 3 PM - 4 PM
-Student_28 Name,Tuesday 6 PM - 7 PM,Wednesday 9 AM - 10 AM,Tuesday 6 PM - 7 PM,Wednesday 9 AM - 10 AM
-Student_28 Name,Tuesday 6 PM - 7 PM,Wednesday 9 AM - 10 AM,Tuesday 6 PM - 7 PM,Wednesday 9 AM - 10 AM
-Student_29 Name,Monday 7 PM - 8 PM,Monday 7 PM - 8 PM,
-Student_29 Name,Monday 7 PM - 8 PM,Monday 7 PM - 8 PM,
-Student_30 Name,Wednesday 10 AM - 11 AM,Friday 3 PM - 4 PM,Wednesday 10 AM - 11 AM,Friday 3 PM - 4 PM
-Student_30 Name,Wednesday 10 AM - 11 AM,Friday 3 PM - 4 PM,Wednesday 10 AM - 11 AM,Friday 3 PM - 4 PM
-Student_31 Name,Thursday 7 PM - 8 PM,Friday 10 AM - 11 AM,Thursday 7 PM - 8 PM,Friday 10 AM - 11 AM
-Student_31 Name,Thursday 7 PM - 8 PM,Friday 10 AM - 11 AM,Thursday 7 PM - 8 PM,Friday 10 AM - 11 AM
-Student_32 Name,Saturday 2 PM - 3 PM,Saturday 2 PM - 3 PM,
-Student_32 Name,Saturday 2 PM - 3 PM,Saturday 2 PM - 3 PM,
-Student_33 Name,,,
-Student_33 Name,,,
-Student_34 Name,Thursday 2 PM - 3 PM,Friday 9 AM - 10 AM,Thursday 2 PM - 3 PM,Friday 9 AM - 10 AM
-Student_34 Name,Thursday 2 PM - 3 PM,Friday 9 AM - 10 AM,Thursday 2 PM - 3 PM,Friday 9 AM - 10 AM
-Student_35 Name,Tuesday 2 PM - 3 PM,Tuesday 2 PM - 3 PM,
-Student_35 Name,Tuesday 2 PM - 3 PM,Tuesday 2 PM - 3 PM,
-Student_36 Name,Monday 9 AM - 10 AM,Friday 12 PM - 1 PM,Monday 9 AM - 10 AM,Friday 12 PM - 1 PM
-Student_36 Name,Monday 9 AM - 10 AM,Friday 12 PM - 1 PM,Monday 9 AM - 10 AM,Friday 12 PM - 1 PM
-Student_37 Name,Wednesday 1 PM - 2 PM,Friday 2 PM - 3 PM,Wednesday 1 PM - 2 PM,Friday 2 PM - 3 PM
-Student_37 Name,Wednesday 1 PM - 2 PM,Friday 2 PM - 3 PM,Wednesday 1 PM - 2 PM,Friday 2 PM - 3 PM
-Student_38 Name,Tuesday 3 PM - 4 PM,Sunday 3 PM - 4 PM,Tuesday 3 PM - 4 PM,Sunday 3 PM - 4 PM
-Student_38 Name,Tuesday 3 PM - 4 PM,Sunday 3 PM - 4 PM,Tuesday 3 PM - 4 PM,Sunday 3 PM - 4 PM
-Student_39 Name,Tuesday 11 AM - 12 PM,Tuesday 11 AM - 12 PM,
-Student_39 Name,Tuesday 11 AM - 12 PM,Tuesday 11 AM - 12 PM,
-Student_40 Name,Monday 3 PM - 4 PM,Saturday 1 PM - 2 PM,Monday 3 PM - 4 PM,Saturday 1 PM - 2 PM
-Student_40 Name,Monday 3 PM - 4 PM,Saturday 1 PM - 2 PM,Monday 3 PM - 4 PM,Saturday 1 PM - 2 PM
-Student_41 Name,Thursday 1 PM - 2 PM,Sunday 12 PM - 1 PM,Thursday 1 PM - 2 PM,Sunday 12 PM - 1 PM
-Student_41 Name,Thursday 1 PM - 2 PM,Sunday 12 PM - 1 PM,Thursday 1 PM - 2 PM,Sunday 12 PM - 1 PM
-Student_42 Name,Monday 8 PM - 9 PM,Saturday 12 PM - 1 PM,Monday 8 PM - 9 PM,Saturday 12 PM - 1 PM
-Student_42 Name,Monday 8 PM - 9 PM,Saturday 12 PM - 1 PM,Monday 8 PM - 9 PM,Saturday 12 PM - 1 PM
-Student_43 Name,,,
-Student_43 Name,,,
-Student_44 Name,,,
-Student_44 Name,,,
-Student_45 Name,Wednesday 2 PM - 3 PM,Wednesday 2 PM - 3 PM,
-Student_45 Name,Wednesday 2 PM - 3 PM,Wednesday 2 PM - 3 PM,
-Student_46 Name,,,
-Student_46 Name,,,
-Student_47 Name,Tuesday 5 PM - 6 PM,Tuesday 5 PM - 6 PM,
-Student_47 Name,Tuesday 5 PM - 6 PM,Tuesday 5 PM - 6 PM,
-Student_48 Name,Monday 4 PM - 5 PM,Monday 4 PM - 5 PM,
-Student_48 Name,Monday 4 PM - 5 PM,Monday 4 PM - 5 PM,
-Student_49 Name,Tuesday 4 PM - 5 PM,Tuesday 4 PM - 5 PM,
-Student_49 Name,Tuesday 4 PM - 5 PM,Tuesday 4 PM - 5 PM,
-Student_50 Name,Tuesday 9 AM - 10 AM,Tuesday 7 PM - 8 PM,Tuesday 9 AM - 10 AM,Tuesday 7 PM - 8 PM
-Student_50 Name,Tuesday 9 AM - 10 AM,Tuesday 7 PM - 8 PM,Tuesday 9 AM - 10 AM,Tuesday 7 PM - 8 PM
+first1 last1,monday 8 pm - 9 pm,wednesday 2 pm - 3 pm,
+first2 last2,monday 10 am - 11 am,wednesday 7 pm - 8 pm,sunday 1 pm - 2 pm
+first3 last3,monday 12 pm - 1 pm,wednesday 7 pm - 8 pm,wednesday 8 pm - 9 pm
+first4 last4,wednesday 10 am - 11 am,wednesday 2 pm - 3 pm,thursday 8 pm - 9 pm
+first5 last5,monday 4 pm - 5 pm,thursday 7 pm - 8 pm,sunday 1 pm - 2 pm
+first6 last6,tuesday 2 pm - 3 pm,tuesday 3 pm - 4 pm,sunday 2 pm - 3 pm
+first7 last7,thursday 5 pm - 6 pm,friday 10 am - 11 am,sunday 12 pm - 1 pm
+first8 last8,monday 10 am - 11 am,tuesday 5 pm - 6 pm,
+first9 last9,friday 1 pm - 2 pm,saturday 12 pm - 1 pm,saturday 1 pm - 2 pm
+first10 last10,thursday 12 pm - 1 pm,thursday 6 pm - 7 pm,
+first11 last11,tuesday 7 pm - 8 pm,thursday 9 am - 10 am,
+first12 last12,monday 9 am - 10 am,thursday 12 pm - 1 pm,
+first13 last13,monday 3 pm - 4 pm,monday 7 pm - 8 pm,
+first14 last14,monday 5 pm - 6 pm,sunday 3 pm - 4 pm,
+first15 last15,wednesday 10 am - 11 am,friday 2 pm - 3 pm,
+first16 last16,monday 1 pm - 2 pm,tuesday 12 pm - 1 pm,wednesday 1 pm - 2 pm
+first17 last17,wednesday 1 pm - 2 pm,thursday 3 pm - 4 pm,
+first18 last18,tuesday 6 pm - 7 pm,friday 9 am - 10 am,
+first19 last19,tuesday 10 am - 11 am,friday 10 am - 11 am,saturday 3 pm - 4 pm
+first20 last20,monday 11 am - 12 pm,friday 2 pm - 3 pm,
+first21 last21,tuesday 2 pm - 3 pm,thursday 5 pm - 6 pm,
+first22 last22,tuesday 6 pm - 7 pm,wednesday 3 pm - 4 pm,wednesday 5 pm - 6 pm
+first23 last23,thursday 10 am - 11 am,saturday 3 pm - 4 pm,
+first24 last24,wednesday 9 am - 10 am,thursday 10 am - 11 am,friday 11 am - 12 pm
+first25 last25,monday 11 am - 12 pm,tuesday 11 am - 12 pm,
+first26 last26,wednesday 4 pm - 5 pm,wednesday 8 pm - 9 pm,friday 1 pm - 2 pm
+first27 last27,tuesday 9 am - 10 am,tuesday 4 pm - 5 pm,
+first28 last28,monday 12 pm - 1 pm,monday 1 pm - 2 pm,saturday 2 pm - 3 pm
+first29 last29,friday 9 am - 10 am,friday 11 am - 12 pm,friday 12 pm - 1 pm
+first30 last30,monday 6 pm - 7 pm,tuesday 9 am - 10 am,
+first31 last31,monday 3 pm - 4 pm,tuesday 7 pm - 8 pm,thursday 1 pm - 2 pm
+first32 last32,thursday 11 am - 12 pm,thursday 2 pm - 3 pm,thursday 7 pm - 8 pm
+first33 last33,thursday 2 pm - 3 pm,thursday 6 pm - 7 pm,
+first34 last34,wednesday 3 pm - 4 pm,wednesday 6 pm - 7 pm,thursday 9 am - 10 am
+first35 last35,monday 2 pm - 3 pm,thursday 4 pm - 5 pm,
+first36 last36,friday 12 pm - 1 pm,sunday 4 pm - 5 pm,
+first37 last37,wednesday 11 am - 12 pm,thursday 1 pm - 2 pm,
+first38 last38,tuesday 8 pm - 9 pm,sunday 2 pm - 3 pm,sunday 3 pm - 4 pm
+first39 last39,tuesday 1 pm - 2 pm,wednesday 12 pm - 1 pm,wednesday 5 pm - 6 pm
+first40 last40,tuesday 10 am - 11 am,tuesday 8 pm - 9 pm,thursday 11 am - 12 pm
+first41 last41,monday 7 pm - 8 pm,wednesday 9 am - 10 am,wednesday 11 am - 12 pm
+first42 last42,tuesday 11 am - 12 pm,tuesday 3 pm - 4 pm,sunday 12 pm - 1 pm
+first43 last43,tuesday 1 pm - 2 pm,thursday 4 pm - 5 pm,saturday 1 pm - 2 pm
+first44 last44,monday 5 pm - 6 pm,monday 6 pm - 7 pm,saturday 2 pm - 3 pm
+first45 last45,monday 9 am - 10 am,sunday 4 pm - 5 pm,
+first46 last46,tuesday 12 pm - 1 pm,tuesday 4 pm - 5 pm,friday 3 pm - 4 pm
+first47 last47,wednesday 6 pm - 7 pm,thursday 3 pm - 4 pm,
+first48 last48,monday 2 pm - 3 pm,monday 8 pm - 9 pm,tuesday 5 pm - 6 pm
+first49 last49,monday 4 pm - 5 pm,wednesday 4 pm - 5 pm,friday 3 pm - 4 pm
+first50 last50,wednesday 12 pm - 1 pm,thursday 8 pm - 9 pm,saturday 12 pm - 1 pm

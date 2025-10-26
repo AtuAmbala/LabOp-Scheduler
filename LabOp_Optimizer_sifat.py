@@ -1,4 +1,6 @@
 import csv
+import sys
+import re
 from collections import defaultdict
 import pulp
 
@@ -16,62 +18,116 @@ def fmt(h):
     if h==24 or h==0: return '12 AM'
     return f"{h if h<=12 else h-12} {'AM' if h<12 else 'PM'}"
 
-slots=[]
+
+def normalize_name(n: str) -> str:
+    if not n:
+        return ''
+    s = re.sub(r'\s+', ' ', str(n).strip())
+    return s.lower()
+
+
+def normalize_slot(s: str) -> str:
+    if not s:
+        return ''
+    x = str(s).upper()
+    x = x.replace('12 NOON', '12 PM')
+    x = re.sub(r'\s+', ' ', x).strip()
+    return x.lower()
+
+slots = []
 for d,s,e in LAB_HOURS:
     for h in range(s,e):
         slots.append(f"{d} {fmt(h)} - {fmt(h+1)}")
-with open(AV_CSV,newline='') as f:
-    r=csv.reader(f)
-    rows=list(r)
-hdr=None
-for i in range(3):
-    if any(c.strip().lower().startswith('name') for c in rows[i]):
-        hdr=rows[i]; start=i+1; break
-if hdr is None: hdr=rows[0]; start=1
-cols=hdr[1:]
-students=[]
-avail=defaultdict(dict)
+input_csv = sys.argv[1] if len(sys.argv) > 1 else AV_CSV
+with open(input_csv, newline='') as f:
+    r = csv.reader(f)
+    rows = list(r)
+hdr = None
+start = 1
+for i in range(min(5, len(rows))):
+    row = rows[i]
+    if any((c or '').strip().lower() in ('name', '\ufeffname', 'first name', 'first', 'email', 'last name') for c in row):
+        hdr = row; start = i+1; break
+if hdr is None:
+    hdr = rows[0]; start = 1
+header_cols = hdr
+mapped_slots = []
+slot_indices = []
+for i,col in enumerate(header_cols[1:]):
+    if col is None:
+        mapped_slots.append(None); continue
+    key = str(col).strip()
+    if key.lower().startswith('slot'):
+        slot_indices.append(i)
+        mapped_slots.append(None)
+    else:
+        mapped_slots.append(key)
+for k, idx in enumerate(slot_indices):
+    if k < len(slots):
+        mapped_slots[idx] = slots[k]
+
+students = []
+avail = defaultdict(dict)
 for row in rows[start:]:
     if not row: continue
-    name=row[0].strip()
+    try:
+        row_map = {h: (row[i] if i < len(row) else '') for i,h in enumerate(header_cols)}
+    except Exception:
+        row_map = {}
+    name = ''
+    if 'First name' in header_cols and 'Last name' in header_cols:
+        fn = (row_map.get('First name','') or '').strip()
+        ln = (row_map.get('Last name','') or '').strip()
+        name = (fn + ' ' + ln).strip()
+    if not name and 'Name' in header_cols:
+        name = (row_map.get('Name','') or '').strip()
+    if not name and 'Email' in header_cols:
+        name = (row_map.get('Email','') or '').strip()
+    if not name:
+        for v in row:
+            if v and str(v).strip():
+                name = str(v).strip(); break
     if not name: continue
     students.append(name)
-    for i,col in enumerate(cols):
-        if 1+i<len(row):
-            v=row[1+i].strip().upper()
-        else:
-            v=''
-        if v=='MUST-SELECT': code='MUST'
-        elif v=='CANNOT-SELECT': code='CANNOT'
-        else: code='OK'
-        if i<len(slots):
-            avail[name][slots[i]]=code
+    for i,slot in enumerate(mapped_slots):
+        v = ''
+        try:
+            v = row[1+i].strip()
+        except:
+            v = ''
+        val = (v or '').upper()
+        if val == 'MUST-SELECT': code = 'MUST'
+        elif val == 'CANNOT-SELECT': code = 'CANNOT'
+        else: code = 'OK'
+        if i < len(slots) and slot:
+            avail[name][slot] = code
 prob = pulp.LpProblem('lab', pulp.LpMaximize)
 assign = {(s,t): pulp.LpVariable(f"x_{i}_{j}", cat='Binary')
           for i,s in enumerate(students) for j,t in enumerate(slots)}
+
 for s in students:
     for t in slots:
-        if avail[s].get(t)=='CANNOT': prob += assign[(s,t)] == 0
+        if avail[s].get(t) == 'CANNOT':
+            prob += assign[(s,t)] == 0
+        if avail[s].get(t) == 'MUST':
+            prob += assign[(s,t)] == 1
+
 for t in slots:
+    prob += pulp.lpSum(assign[(s,t)] for s in students) >= 1
     prob += pulp.lpSum(assign[(s,t)] for s in students) <= 2
-    # lower bound via slack z_t
+
 for s in students:
+    prob += pulp.lpSum(assign[(s,t)] for t in slots) >= 2
     prob += pulp.lpSum(assign[(s,t)] for t in slots) <= 3
-    # lower bound via slack y_s
-y = {s: pulp.LpVariable(f"y_{i}", lowBound=0, cat='Integer') for i,s in enumerate(students)}
-z = {t: pulp.LpVariable(f"z_{j}", lowBound=0, cat='Integer') for j,t in enumerate(slots)}
-for i,s in enumerate(students):
-    prob += pulp.lpSum(assign[(s,t)] for t in slots) + y[s] >= 2
-for j,t in enumerate(slots):
-    prob += pulp.lpSum(assign[(s,t)] for s in students) + z[t] >= 1
-must_terms = [assign[(s,t)] for s in students for t in slots if avail[s].get(t)=='MUST']
-PENALTY = 1000000
-prob += pulp.lpSum(must_terms) - PENALTY*(pulp.lpSum(y.values()) + pulp.lpSum(z.values())) + 0.01*pulp.lpSum(assign.values())
+
+prob += pulp.lpSum(assign.values())
+
 prob.solve(pulp.PULP_CBC_CMD(msg=0))
 schedule = defaultdict(list)
 student_slots = defaultdict(list)
-if pulp.LpStatus[prob.status] != 'Optimal' and pulp.LpStatus[prob.status] != 'Feasible':
-    raise SystemExit(f"Solver status: {pulp.LpStatus[prob.status]}")
+if pulp.LpStatus[prob.status] != 'Optimal':
+    print('not possible')
+    raise SystemExit(1)
 for s in students:
     for t in slots:
         val = pulp.value(assign[(s,t)])
@@ -121,5 +177,6 @@ with open(OUT_STUD,'w',newline='') as f:
     w=csv.writer(f)
     w.writerow(['Student']+[f'Hour {i+1}' for i in range(maxh)])
     for s in students:
-        row=[s]+student_slots[s]+['']*(maxh-len(student_slots[s]))
+        hours = [normalize_slot(h) for h in student_slots[s]]
+        row=[normalize_name(s)]+hours+['']*(maxh-len(hours))
         w.writerow(row)

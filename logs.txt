@@ -1,0 +1,1000 @@
+Processing: dataset_no10_must1_m50_l67/combined_s200.csv
+dataset_no10_must1_m50_l67: combined_s200.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s201.csv
+dataset_no10_must1_m50_l67: combined_s201.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s202.csv
+dataset_no10_must1_m50_l67: combined_s202.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s203.csv
+dataset_no10_must1_m50_l67: combined_s203.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s204.csv
+dataset_no10_must1_m50_l67: combined_s204.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s205.csv
+dataset_no10_must1_m50_l67: combined_s205.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s206.csv
+dataset_no10_must1_m50_l67: combined_s206.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s207.csv
+dataset_no10_must1_m50_l67: combined_s207.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s208.csv
+dataset_no10_must1_m50_l67: combined_s208.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s209.csv
+dataset_no10_must1_m50_l67: combined_s209.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s210.csv
+dataset_no10_must1_m50_l67: combined_s210.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s211.csv
+dataset_no10_must1_m50_l67: combined_s211.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s212.csv
+dataset_no10_must1_m50_l67: combined_s212.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s213.csv
+dataset_no10_must1_m50_l67: combined_s213.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s214.csv
+dataset_no10_must1_m50_l67: combined_s214.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s215.csv
+dataset_no10_must1_m50_l67: combined_s215.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s216.csv
+dataset_no10_must1_m50_l67: combined_s216.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s217.csv
+dataset_no10_must1_m50_l67: combined_s217.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s218.csv
+dataset_no10_must1_m50_l67: combined_s218.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s219.csv
+dataset_no10_must1_m50_l67: combined_s219.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no10_must1_m50_l67/combined_s220.csv
+dataset_no10_must1_m50_l67: combined_s220.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no10_must1_m50_l67/combined_s221.csv
+dataset_no10_must1_m50_l67: combined_s221.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no10_must1_m50_l67/combined_s222.csv
+dataset_no10_must1_m50_l67: combined_s222.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: True, CHECK3: True, CHECK4: True
+Processing: dataset_no10_must1_m50_l67/combined_s223.csv
+dataset_no10_must1_m50_l67: combined_s223.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no10_must1_m50_l67/combined_s224.csv
+dataset_no10_must1_m50_l67: combined_s224.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s225.csv
+dataset_no10_must1_m50_l67: combined_s225.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s226.csv
+dataset_no10_must1_m50_l67: combined_s226.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s227.csv
+dataset_no10_must1_m50_l67: combined_s227.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s228.csv
+dataset_no10_must1_m50_l67: combined_s228.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s229.csv
+dataset_no10_must1_m50_l67: combined_s229.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s230.csv
+dataset_no10_must1_m50_l67: combined_s230.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s231.csv
+dataset_no10_must1_m50_l67: combined_s231.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s232.csv
+dataset_no10_must1_m50_l67: combined_s232.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s233.csv
+dataset_no10_must1_m50_l67: combined_s233.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no10_must1_m50_l67/combined_s234.csv
+dataset_no10_must1_m50_l67: combined_s234.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no10_must1_m50_l67/combined_s235.csv
+dataset_no10_must1_m50_l67: combined_s235.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no10_must1_m50_l67/combined_s236.csv
+dataset_no10_must1_m50_l67: combined_s236.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: True, CHECK3: True, CHECK4: True
+Processing: dataset_no10_must1_m50_l67/combined_s237.csv
+dataset_no10_must1_m50_l67: combined_s237.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s238.csv
+dataset_no10_must1_m50_l67: combined_s238.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s239.csv
+dataset_no10_must1_m50_l67: combined_s239.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s240.csv
+dataset_no10_must1_m50_l67: combined_s240.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s241.csv
+dataset_no10_must1_m50_l67: combined_s241.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s242.csv
+dataset_no10_must1_m50_l67: combined_s242.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s243.csv
+dataset_no10_must1_m50_l67: combined_s243.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s244.csv
+dataset_no10_must1_m50_l67: combined_s244.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s245.csv
+dataset_no10_must1_m50_l67: combined_s245.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s246.csv
+dataset_no10_must1_m50_l67: combined_s246.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s247.csv
+dataset_no10_must1_m50_l67: combined_s247.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s248.csv
+dataset_no10_must1_m50_l67: combined_s248.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s249.csv
+dataset_no10_must1_m50_l67: combined_s249.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s250.csv
+dataset_no10_must1_m50_l67: combined_s250.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s251.csv
+dataset_no10_must1_m50_l67: combined_s251.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s252.csv
+dataset_no10_must1_m50_l67: combined_s252.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s253.csv
+dataset_no10_must1_m50_l67: combined_s253.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s254.csv
+dataset_no10_must1_m50_l67: combined_s254.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s255.csv
+dataset_no10_must1_m50_l67: combined_s255.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s256.csv
+dataset_no10_must1_m50_l67: combined_s256.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s257.csv
+dataset_no10_must1_m50_l67: combined_s257.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s258.csv
+dataset_no10_must1_m50_l67: combined_s258.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s259.csv
+dataset_no10_must1_m50_l67: combined_s259.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s260.csv
+dataset_no10_must1_m50_l67: combined_s260.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s261.csv
+dataset_no10_must1_m50_l67: combined_s261.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s262.csv
+dataset_no10_must1_m50_l67: combined_s262.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s263.csv
+dataset_no10_must1_m50_l67: combined_s263.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s264.csv
+dataset_no10_must1_m50_l67: combined_s264.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s265.csv
+dataset_no10_must1_m50_l67: combined_s265.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s266.csv
+dataset_no10_must1_m50_l67: combined_s266.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s267.csv
+dataset_no10_must1_m50_l67: combined_s267.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s268.csv
+dataset_no10_must1_m50_l67: combined_s268.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s269.csv
+dataset_no10_must1_m50_l67: combined_s269.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s270.csv
+dataset_no10_must1_m50_l67: combined_s270.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s271.csv
+dataset_no10_must1_m50_l67: combined_s271.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s272.csv
+dataset_no10_must1_m50_l67: combined_s272.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s273.csv
+dataset_no10_must1_m50_l67: combined_s273.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s274.csv
+dataset_no10_must1_m50_l67: combined_s274.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s275.csv
+dataset_no10_must1_m50_l67: combined_s275.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s276.csv
+dataset_no10_must1_m50_l67: combined_s276.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s277.csv
+dataset_no10_must1_m50_l67: combined_s277.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s278.csv
+dataset_no10_must1_m50_l67: combined_s278.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s279.csv
+dataset_no10_must1_m50_l67: combined_s279.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s280.csv
+dataset_no10_must1_m50_l67: combined_s280.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s281.csv
+dataset_no10_must1_m50_l67: combined_s281.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s282.csv
+dataset_no10_must1_m50_l67: combined_s282.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s283.csv
+dataset_no10_must1_m50_l67: combined_s283.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s284.csv
+dataset_no10_must1_m50_l67: combined_s284.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s285.csv
+dataset_no10_must1_m50_l67: combined_s285.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s286.csv
+dataset_no10_must1_m50_l67: combined_s286.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s287.csv
+dataset_no10_must1_m50_l67: combined_s287.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s288.csv
+dataset_no10_must1_m50_l67: combined_s288.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s289.csv
+dataset_no10_must1_m50_l67: combined_s289.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s290.csv
+dataset_no10_must1_m50_l67: combined_s290.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s291.csv
+dataset_no10_must1_m50_l67: combined_s291.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s292.csv
+dataset_no10_must1_m50_l67: combined_s292.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s293.csv
+dataset_no10_must1_m50_l67: combined_s293.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s294.csv
+dataset_no10_must1_m50_l67: combined_s294.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s295.csv
+dataset_no10_must1_m50_l67: combined_s295.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s296.csv
+dataset_no10_must1_m50_l67: combined_s296.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s297.csv
+dataset_no10_must1_m50_l67: combined_s297.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s298.csv
+dataset_no10_must1_m50_l67: combined_s298.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must1_m50_l67/combined_s299.csv
+dataset_no10_must1_m50_l67: combined_s299.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s200.csv
+dataset_no10_must2_m50_l67: combined_s200.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s201.csv
+dataset_no10_must2_m50_l67: combined_s201.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s202.csv
+dataset_no10_must2_m50_l67: combined_s202.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s203.csv
+dataset_no10_must2_m50_l67: combined_s203.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s204.csv
+dataset_no10_must2_m50_l67: combined_s204.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s205.csv
+dataset_no10_must2_m50_l67: combined_s205.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s206.csv
+dataset_no10_must2_m50_l67: combined_s206.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s207.csv
+dataset_no10_must2_m50_l67: combined_s207.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s208.csv
+dataset_no10_must2_m50_l67: combined_s208.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s209.csv
+dataset_no10_must2_m50_l67: combined_s209.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s210.csv
+dataset_no10_must2_m50_l67: combined_s210.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s211.csv
+dataset_no10_must2_m50_l67: combined_s211.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s212.csv
+dataset_no10_must2_m50_l67: combined_s212.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s213.csv
+dataset_no10_must2_m50_l67: combined_s213.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s214.csv
+dataset_no10_must2_m50_l67: combined_s214.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s215.csv
+dataset_no10_must2_m50_l67: combined_s215.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s216.csv
+dataset_no10_must2_m50_l67: combined_s216.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s217.csv
+dataset_no10_must2_m50_l67: combined_s217.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s218.csv
+dataset_no10_must2_m50_l67: combined_s218.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s219.csv
+dataset_no10_must2_m50_l67: combined_s219.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s220.csv
+dataset_no10_must2_m50_l67: combined_s220.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s221.csv
+dataset_no10_must2_m50_l67: combined_s221.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s222.csv
+dataset_no10_must2_m50_l67: combined_s222.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s223.csv
+dataset_no10_must2_m50_l67: combined_s223.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s224.csv
+dataset_no10_must2_m50_l67: combined_s224.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s225.csv
+dataset_no10_must2_m50_l67: combined_s225.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s226.csv
+dataset_no10_must2_m50_l67: combined_s226.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s227.csv
+dataset_no10_must2_m50_l67: combined_s227.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s228.csv
+dataset_no10_must2_m50_l67: combined_s228.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s229.csv
+dataset_no10_must2_m50_l67: combined_s229.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s230.csv
+dataset_no10_must2_m50_l67: combined_s230.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s231.csv
+dataset_no10_must2_m50_l67: combined_s231.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s232.csv
+dataset_no10_must2_m50_l67: combined_s232.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s233.csv
+dataset_no10_must2_m50_l67: combined_s233.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s234.csv
+dataset_no10_must2_m50_l67: combined_s234.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s235.csv
+dataset_no10_must2_m50_l67: combined_s235.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s236.csv
+dataset_no10_must2_m50_l67: combined_s236.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s237.csv
+dataset_no10_must2_m50_l67: combined_s237.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s238.csv
+dataset_no10_must2_m50_l67: combined_s238.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s239.csv
+dataset_no10_must2_m50_l67: combined_s239.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s240.csv
+dataset_no10_must2_m50_l67: combined_s240.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s241.csv
+dataset_no10_must2_m50_l67: combined_s241.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s242.csv
+dataset_no10_must2_m50_l67: combined_s242.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s243.csv
+dataset_no10_must2_m50_l67: combined_s243.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s244.csv
+dataset_no10_must2_m50_l67: combined_s244.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s245.csv
+dataset_no10_must2_m50_l67: combined_s245.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s246.csv
+dataset_no10_must2_m50_l67: combined_s246.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s247.csv
+dataset_no10_must2_m50_l67: combined_s247.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s248.csv
+dataset_no10_must2_m50_l67: combined_s248.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s249.csv
+dataset_no10_must2_m50_l67: combined_s249.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s250.csv
+dataset_no10_must2_m50_l67: combined_s250.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s251.csv
+dataset_no10_must2_m50_l67: combined_s251.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s252.csv
+dataset_no10_must2_m50_l67: combined_s252.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s253.csv
+dataset_no10_must2_m50_l67: combined_s253.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s254.csv
+dataset_no10_must2_m50_l67: combined_s254.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s255.csv
+dataset_no10_must2_m50_l67: combined_s255.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s256.csv
+dataset_no10_must2_m50_l67: combined_s256.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s257.csv
+dataset_no10_must2_m50_l67: combined_s257.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s258.csv
+dataset_no10_must2_m50_l67: combined_s258.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s259.csv
+dataset_no10_must2_m50_l67: combined_s259.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s260.csv
+dataset_no10_must2_m50_l67: combined_s260.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s261.csv
+dataset_no10_must2_m50_l67: combined_s261.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s262.csv
+dataset_no10_must2_m50_l67: combined_s262.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s263.csv
+dataset_no10_must2_m50_l67: combined_s263.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s264.csv
+dataset_no10_must2_m50_l67: combined_s264.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s265.csv
+dataset_no10_must2_m50_l67: combined_s265.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s266.csv
+dataset_no10_must2_m50_l67: combined_s266.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s267.csv
+dataset_no10_must2_m50_l67: combined_s267.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s268.csv
+dataset_no10_must2_m50_l67: combined_s268.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s269.csv
+dataset_no10_must2_m50_l67: combined_s269.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s270.csv
+dataset_no10_must2_m50_l67: combined_s270.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s271.csv
+dataset_no10_must2_m50_l67: combined_s271.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s272.csv
+dataset_no10_must2_m50_l67: combined_s272.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s273.csv
+dataset_no10_must2_m50_l67: combined_s273.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s274.csv
+dataset_no10_must2_m50_l67: combined_s274.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s275.csv
+dataset_no10_must2_m50_l67: combined_s275.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s276.csv
+dataset_no10_must2_m50_l67: combined_s276.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s277.csv
+dataset_no10_must2_m50_l67: combined_s277.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s278.csv
+dataset_no10_must2_m50_l67: combined_s278.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s279.csv
+dataset_no10_must2_m50_l67: combined_s279.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s280.csv
+dataset_no10_must2_m50_l67: combined_s280.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s281.csv
+dataset_no10_must2_m50_l67: combined_s281.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s282.csv
+dataset_no10_must2_m50_l67: combined_s282.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s283.csv
+dataset_no10_must2_m50_l67: combined_s283.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s284.csv
+dataset_no10_must2_m50_l67: combined_s284.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s285.csv
+dataset_no10_must2_m50_l67: combined_s285.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s286.csv
+dataset_no10_must2_m50_l67: combined_s286.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s287.csv
+dataset_no10_must2_m50_l67: combined_s287.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s288.csv
+dataset_no10_must2_m50_l67: combined_s288.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s289.csv
+dataset_no10_must2_m50_l67: combined_s289.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s290.csv
+dataset_no10_must2_m50_l67: combined_s290.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s291.csv
+dataset_no10_must2_m50_l67: combined_s291.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s292.csv
+dataset_no10_must2_m50_l67: combined_s292.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s293.csv
+dataset_no10_must2_m50_l67: combined_s293.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s294.csv
+dataset_no10_must2_m50_l67: combined_s294.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s295.csv
+dataset_no10_must2_m50_l67: combined_s295.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s296.csv
+dataset_no10_must2_m50_l67: combined_s296.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s297.csv
+dataset_no10_must2_m50_l67: combined_s297.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s298.csv
+dataset_no10_must2_m50_l67: combined_s298.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no10_must2_m50_l67/combined_s299.csv
+dataset_no10_must2_m50_l67: combined_s299.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s200.csv
+dataset_no15_must1_m50_l67: combined_s200.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s201.csv
+dataset_no15_must1_m50_l67: combined_s201.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s202.csv
+dataset_no15_must1_m50_l67: combined_s202.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s203.csv
+dataset_no15_must1_m50_l67: combined_s203.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s204.csv
+dataset_no15_must1_m50_l67: combined_s204.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s205.csv
+dataset_no15_must1_m50_l67: combined_s205.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s206.csv
+dataset_no15_must1_m50_l67: combined_s206.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s207.csv
+dataset_no15_must1_m50_l67: combined_s207.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s208.csv
+dataset_no15_must1_m50_l67: combined_s208.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s209.csv
+dataset_no15_must1_m50_l67: combined_s209.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s210.csv
+dataset_no15_must1_m50_l67: combined_s210.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s211.csv
+dataset_no15_must1_m50_l67: combined_s211.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s212.csv
+dataset_no15_must1_m50_l67: combined_s212.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s213.csv
+dataset_no15_must1_m50_l67: combined_s213.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s214.csv
+dataset_no15_must1_m50_l67: combined_s214.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s215.csv
+dataset_no15_must1_m50_l67: combined_s215.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s216.csv
+dataset_no15_must1_m50_l67: combined_s216.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s217.csv
+dataset_no15_must1_m50_l67: combined_s217.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s218.csv
+dataset_no15_must1_m50_l67: combined_s218.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s219.csv
+dataset_no15_must1_m50_l67: combined_s219.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s220.csv
+dataset_no15_must1_m50_l67: combined_s220.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s221.csv
+dataset_no15_must1_m50_l67: combined_s221.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s222.csv
+dataset_no15_must1_m50_l67: combined_s222.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s223.csv
+dataset_no15_must1_m50_l67: combined_s223.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s224.csv
+dataset_no15_must1_m50_l67: combined_s224.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s225.csv
+dataset_no15_must1_m50_l67: combined_s225.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s226.csv
+dataset_no15_must1_m50_l67: combined_s226.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s227.csv
+dataset_no15_must1_m50_l67: combined_s227.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s228.csv
+dataset_no15_must1_m50_l67: combined_s228.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s229.csv
+dataset_no15_must1_m50_l67: combined_s229.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s230.csv
+dataset_no15_must1_m50_l67: combined_s230.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s231.csv
+dataset_no15_must1_m50_l67: combined_s231.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s232.csv
+dataset_no15_must1_m50_l67: combined_s232.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s233.csv
+dataset_no15_must1_m50_l67: combined_s233.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s234.csv
+dataset_no15_must1_m50_l67: combined_s234.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s235.csv
+dataset_no15_must1_m50_l67: combined_s235.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s236.csv
+dataset_no15_must1_m50_l67: combined_s236.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s237.csv
+dataset_no15_must1_m50_l67: combined_s237.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s238.csv
+dataset_no15_must1_m50_l67: combined_s238.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s239.csv
+dataset_no15_must1_m50_l67: combined_s239.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s240.csv
+dataset_no15_must1_m50_l67: combined_s240.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s241.csv
+dataset_no15_must1_m50_l67: combined_s241.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s242.csv
+dataset_no15_must1_m50_l67: combined_s242.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s243.csv
+dataset_no15_must1_m50_l67: combined_s243.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s244.csv
+dataset_no15_must1_m50_l67: combined_s244.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s245.csv
+dataset_no15_must1_m50_l67: combined_s245.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s246.csv
+dataset_no15_must1_m50_l67: combined_s246.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s247.csv
+dataset_no15_must1_m50_l67: combined_s247.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s248.csv
+dataset_no15_must1_m50_l67: combined_s248.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s249.csv
+dataset_no15_must1_m50_l67: combined_s249.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s250.csv
+dataset_no15_must1_m50_l67: combined_s250.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s251.csv
+dataset_no15_must1_m50_l67: combined_s251.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s252.csv
+dataset_no15_must1_m50_l67: combined_s252.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s253.csv
+dataset_no15_must1_m50_l67: combined_s253.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s254.csv
+dataset_no15_must1_m50_l67: combined_s254.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s255.csv
+dataset_no15_must1_m50_l67: combined_s255.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s256.csv
+dataset_no15_must1_m50_l67: combined_s256.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s257.csv
+dataset_no15_must1_m50_l67: combined_s257.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no15_must1_m50_l67/combined_s258.csv
+dataset_no15_must1_m50_l67: combined_s258.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no15_must1_m50_l67/combined_s259.csv
+dataset_no15_must1_m50_l67: combined_s259.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no15_must1_m50_l67/combined_s260.csv
+dataset_no15_must1_m50_l67: combined_s260.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no15_must1_m50_l67/combined_s261.csv
+dataset_no15_must1_m50_l67: combined_s261.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s262.csv
+dataset_no15_must1_m50_l67: combined_s262.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s263.csv
+dataset_no15_must1_m50_l67: combined_s263.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s264.csv
+dataset_no15_must1_m50_l67: combined_s264.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s265.csv
+dataset_no15_must1_m50_l67: combined_s265.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s266.csv
+dataset_no15_must1_m50_l67: combined_s266.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s267.csv
+dataset_no15_must1_m50_l67: combined_s267.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s268.csv
+dataset_no15_must1_m50_l67: combined_s268.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s269.csv
+dataset_no15_must1_m50_l67: combined_s269.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s270.csv
+dataset_no15_must1_m50_l67: combined_s270.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s271.csv
+dataset_no15_must1_m50_l67: combined_s271.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s272.csv
+dataset_no15_must1_m50_l67: combined_s272.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s273.csv
+dataset_no15_must1_m50_l67: combined_s273.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s274.csv
+dataset_no15_must1_m50_l67: combined_s274.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s275.csv
+dataset_no15_must1_m50_l67: combined_s275.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s276.csv
+dataset_no15_must1_m50_l67: combined_s276.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s277.csv
+dataset_no15_must1_m50_l67: combined_s277.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s278.csv
+dataset_no15_must1_m50_l67: combined_s278.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s279.csv
+dataset_no15_must1_m50_l67: combined_s279.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s280.csv
+dataset_no15_must1_m50_l67: combined_s280.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s281.csv
+dataset_no15_must1_m50_l67: combined_s281.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s282.csv
+dataset_no15_must1_m50_l67: combined_s282.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s283.csv
+dataset_no15_must1_m50_l67: combined_s283.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s284.csv
+dataset_no15_must1_m50_l67: combined_s284.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s285.csv
+dataset_no15_must1_m50_l67: combined_s285.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s286.csv
+dataset_no15_must1_m50_l67: combined_s286.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s287.csv
+dataset_no15_must1_m50_l67: combined_s287.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s288.csv
+dataset_no15_must1_m50_l67: combined_s288.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s289.csv
+dataset_no15_must1_m50_l67: combined_s289.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s290.csv
+dataset_no15_must1_m50_l67: combined_s290.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s291.csv
+dataset_no15_must1_m50_l67: combined_s291.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s292.csv
+dataset_no15_must1_m50_l67: combined_s292.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s293.csv
+dataset_no15_must1_m50_l67: combined_s293.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s294.csv
+dataset_no15_must1_m50_l67: combined_s294.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s295.csv
+dataset_no15_must1_m50_l67: combined_s295.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s296.csv
+dataset_no15_must1_m50_l67: combined_s296.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s297.csv
+dataset_no15_must1_m50_l67: combined_s297.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s298.csv
+dataset_no15_must1_m50_l67: combined_s298.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no15_must1_m50_l67/combined_s299.csv
+dataset_no15_must1_m50_l67: combined_s299.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s200.csv
+dataset_no20_must1_m50_l67: combined_s200.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s201.csv
+dataset_no20_must1_m50_l67: combined_s201.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s202.csv
+dataset_no20_must1_m50_l67: combined_s202.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s203.csv
+dataset_no20_must1_m50_l67: combined_s203.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s204.csv
+dataset_no20_must1_m50_l67: combined_s204.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s205.csv
+dataset_no20_must1_m50_l67: combined_s205.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s206.csv
+dataset_no20_must1_m50_l67: combined_s206.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s207.csv
+dataset_no20_must1_m50_l67: combined_s207.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s208.csv
+dataset_no20_must1_m50_l67: combined_s208.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s209.csv
+dataset_no20_must1_m50_l67: combined_s209.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s210.csv
+dataset_no20_must1_m50_l67: combined_s210.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s211.csv
+dataset_no20_must1_m50_l67: combined_s211.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s212.csv
+dataset_no20_must1_m50_l67: combined_s212.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s213.csv
+dataset_no20_must1_m50_l67: combined_s213.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s214.csv
+dataset_no20_must1_m50_l67: combined_s214.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s215.csv
+dataset_no20_must1_m50_l67: combined_s215.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s216.csv
+dataset_no20_must1_m50_l67: combined_s216.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s217.csv
+dataset_no20_must1_m50_l67: combined_s217.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s218.csv
+dataset_no20_must1_m50_l67: combined_s218.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s219.csv
+dataset_no20_must1_m50_l67: combined_s219.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s220.csv
+dataset_no20_must1_m50_l67: combined_s220.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s221.csv
+dataset_no20_must1_m50_l67: combined_s221.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s222.csv
+dataset_no20_must1_m50_l67: combined_s222.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s223.csv
+dataset_no20_must1_m50_l67: combined_s223.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s224.csv
+dataset_no20_must1_m50_l67: combined_s224.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s225.csv
+dataset_no20_must1_m50_l67: combined_s225.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s226.csv
+dataset_no20_must1_m50_l67: combined_s226.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s227.csv
+dataset_no20_must1_m50_l67: combined_s227.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s228.csv
+dataset_no20_must1_m50_l67: combined_s228.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s229.csv
+dataset_no20_must1_m50_l67: combined_s229.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s230.csv
+dataset_no20_must1_m50_l67: combined_s230.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s231.csv
+dataset_no20_must1_m50_l67: combined_s231.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s232.csv
+dataset_no20_must1_m50_l67: combined_s232.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s233.csv
+dataset_no20_must1_m50_l67: combined_s233.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s234.csv
+dataset_no20_must1_m50_l67: combined_s234.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s235.csv
+dataset_no20_must1_m50_l67: combined_s235.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s236.csv
+dataset_no20_must1_m50_l67: combined_s236.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s237.csv
+dataset_no20_must1_m50_l67: combined_s237.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s238.csv
+dataset_no20_must1_m50_l67: combined_s238.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s239.csv
+dataset_no20_must1_m50_l67: combined_s239.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s240.csv
+dataset_no20_must1_m50_l67: combined_s240.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s241.csv
+dataset_no20_must1_m50_l67: combined_s241.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s242.csv
+dataset_no20_must1_m50_l67: combined_s242.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s243.csv
+dataset_no20_must1_m50_l67: combined_s243.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s244.csv
+dataset_no20_must1_m50_l67: combined_s244.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s245.csv
+dataset_no20_must1_m50_l67: combined_s245.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s246.csv
+dataset_no20_must1_m50_l67: combined_s246.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s247.csv
+dataset_no20_must1_m50_l67: combined_s247.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s248.csv
+dataset_no20_must1_m50_l67: combined_s248.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s249.csv
+dataset_no20_must1_m50_l67: combined_s249.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s250.csv
+dataset_no20_must1_m50_l67: combined_s250.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s251.csv
+dataset_no20_must1_m50_l67: combined_s251.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s252.csv
+dataset_no20_must1_m50_l67: combined_s252.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s253.csv
+dataset_no20_must1_m50_l67: combined_s253.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s254.csv
+dataset_no20_must1_m50_l67: combined_s254.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s255.csv
+dataset_no20_must1_m50_l67: combined_s255.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s256.csv
+dataset_no20_must1_m50_l67: combined_s256.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s257.csv
+dataset_no20_must1_m50_l67: combined_s257.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s258.csv
+dataset_no20_must1_m50_l67: combined_s258.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s259.csv
+dataset_no20_must1_m50_l67: combined_s259.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s260.csv
+dataset_no20_must1_m50_l67: combined_s260.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s261.csv
+dataset_no20_must1_m50_l67: combined_s261.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s262.csv
+dataset_no20_must1_m50_l67: combined_s262.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s263.csv
+dataset_no20_must1_m50_l67: combined_s263.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s264.csv
+dataset_no20_must1_m50_l67: combined_s264.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s265.csv
+dataset_no20_must1_m50_l67: combined_s265.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s266.csv
+dataset_no20_must1_m50_l67: combined_s266.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s267.csv
+dataset_no20_must1_m50_l67: combined_s267.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s268.csv
+dataset_no20_must1_m50_l67: combined_s268.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s269.csv
+dataset_no20_must1_m50_l67: combined_s269.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s270.csv
+dataset_no20_must1_m50_l67: combined_s270.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s271.csv
+dataset_no20_must1_m50_l67: combined_s271.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s272.csv
+dataset_no20_must1_m50_l67: combined_s272.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s273.csv
+dataset_no20_must1_m50_l67: combined_s273.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s274.csv
+dataset_no20_must1_m50_l67: combined_s274.csv > OPTIMIZER: OK, CHECK1: False, CHECK2: False, CHECK3: True, CHECK4: True
+Processing: dataset_no20_must1_m50_l67/combined_s275.csv
+dataset_no20_must1_m50_l67: combined_s275.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s276.csv
+dataset_no20_must1_m50_l67: combined_s276.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s277.csv
+dataset_no20_must1_m50_l67: combined_s277.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s278.csv
+dataset_no20_must1_m50_l67: combined_s278.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s279.csv
+dataset_no20_must1_m50_l67: combined_s279.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s280.csv
+dataset_no20_must1_m50_l67: combined_s280.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s281.csv
+dataset_no20_must1_m50_l67: combined_s281.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s282.csv
+dataset_no20_must1_m50_l67: combined_s282.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s283.csv
+dataset_no20_must1_m50_l67: combined_s283.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s284.csv
+dataset_no20_must1_m50_l67: combined_s284.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s285.csv
+dataset_no20_must1_m50_l67: combined_s285.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s286.csv
+dataset_no20_must1_m50_l67: combined_s286.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s287.csv
+dataset_no20_must1_m50_l67: combined_s287.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s288.csv
+dataset_no20_must1_m50_l67: combined_s288.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s289.csv
+dataset_no20_must1_m50_l67: combined_s289.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s290.csv
+dataset_no20_must1_m50_l67: combined_s290.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s291.csv
+dataset_no20_must1_m50_l67: combined_s291.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s292.csv
+dataset_no20_must1_m50_l67: combined_s292.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s293.csv
+dataset_no20_must1_m50_l67: combined_s293.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s294.csv
+dataset_no20_must1_m50_l67: combined_s294.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s295.csv
+dataset_no20_must1_m50_l67: combined_s295.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s296.csv
+dataset_no20_must1_m50_l67: combined_s296.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s297.csv
+dataset_no20_must1_m50_l67: combined_s297.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s298.csv
+dataset_no20_must1_m50_l67: combined_s298.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no20_must1_m50_l67/combined_s299.csv
+dataset_no20_must1_m50_l67: combined_s299.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s200.csv
+dataset_no5_must1_m50_l67: combined_s200.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s201.csv
+dataset_no5_must1_m50_l67: combined_s201.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s202.csv
+dataset_no5_must1_m50_l67: combined_s202.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s203.csv
+dataset_no5_must1_m50_l67: combined_s203.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s204.csv
+dataset_no5_must1_m50_l67: combined_s204.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s205.csv
+dataset_no5_must1_m50_l67: combined_s205.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s206.csv
+dataset_no5_must1_m50_l67: combined_s206.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s207.csv
+dataset_no5_must1_m50_l67: combined_s207.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s208.csv
+dataset_no5_must1_m50_l67: combined_s208.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s209.csv
+dataset_no5_must1_m50_l67: combined_s209.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s210.csv
+dataset_no5_must1_m50_l67: combined_s210.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s211.csv
+dataset_no5_must1_m50_l67: combined_s211.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s212.csv
+dataset_no5_must1_m50_l67: combined_s212.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s213.csv
+dataset_no5_must1_m50_l67: combined_s213.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s214.csv
+dataset_no5_must1_m50_l67: combined_s214.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s215.csv
+dataset_no5_must1_m50_l67: combined_s215.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s216.csv
+dataset_no5_must1_m50_l67: combined_s216.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s217.csv
+dataset_no5_must1_m50_l67: combined_s217.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s218.csv
+dataset_no5_must1_m50_l67: combined_s218.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s219.csv
+dataset_no5_must1_m50_l67: combined_s219.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s220.csv
+dataset_no5_must1_m50_l67: combined_s220.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s221.csv
+dataset_no5_must1_m50_l67: combined_s221.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s222.csv
+dataset_no5_must1_m50_l67: combined_s222.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s223.csv
+dataset_no5_must1_m50_l67: combined_s223.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s224.csv
+dataset_no5_must1_m50_l67: combined_s224.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s225.csv
+dataset_no5_must1_m50_l67: combined_s225.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s226.csv
+dataset_no5_must1_m50_l67: combined_s226.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s227.csv
+dataset_no5_must1_m50_l67: combined_s227.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s228.csv
+dataset_no5_must1_m50_l67: combined_s228.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s229.csv
+dataset_no5_must1_m50_l67: combined_s229.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s230.csv
+dataset_no5_must1_m50_l67: combined_s230.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s231.csv
+dataset_no5_must1_m50_l67: combined_s231.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s232.csv
+dataset_no5_must1_m50_l67: combined_s232.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s233.csv
+dataset_no5_must1_m50_l67: combined_s233.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s234.csv
+dataset_no5_must1_m50_l67: combined_s234.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s235.csv
+dataset_no5_must1_m50_l67: combined_s235.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s236.csv
+dataset_no5_must1_m50_l67: combined_s236.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s237.csv
+dataset_no5_must1_m50_l67: combined_s237.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s238.csv
+dataset_no5_must1_m50_l67: combined_s238.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s239.csv
+dataset_no5_must1_m50_l67: combined_s239.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s240.csv
+dataset_no5_must1_m50_l67: combined_s240.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s241.csv
+dataset_no5_must1_m50_l67: combined_s241.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s242.csv
+dataset_no5_must1_m50_l67: combined_s242.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s243.csv
+dataset_no5_must1_m50_l67: combined_s243.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s244.csv
+dataset_no5_must1_m50_l67: combined_s244.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s245.csv
+dataset_no5_must1_m50_l67: combined_s245.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s246.csv
+dataset_no5_must1_m50_l67: combined_s246.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s247.csv
+dataset_no5_must1_m50_l67: combined_s247.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s248.csv
+dataset_no5_must1_m50_l67: combined_s248.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s249.csv
+dataset_no5_must1_m50_l67: combined_s249.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s250.csv
+dataset_no5_must1_m50_l67: combined_s250.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s251.csv
+dataset_no5_must1_m50_l67: combined_s251.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s252.csv
+dataset_no5_must1_m50_l67: combined_s252.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s253.csv
+dataset_no5_must1_m50_l67: combined_s253.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s254.csv
+dataset_no5_must1_m50_l67: combined_s254.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s255.csv
+dataset_no5_must1_m50_l67: combined_s255.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s256.csv
+dataset_no5_must1_m50_l67: combined_s256.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s257.csv
+dataset_no5_must1_m50_l67: combined_s257.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s258.csv
+dataset_no5_must1_m50_l67: combined_s258.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s259.csv
+dataset_no5_must1_m50_l67: combined_s259.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s260.csv
+dataset_no5_must1_m50_l67: combined_s260.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s261.csv
+dataset_no5_must1_m50_l67: combined_s261.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s262.csv
+dataset_no5_must1_m50_l67: combined_s262.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s263.csv
+dataset_no5_must1_m50_l67: combined_s263.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s264.csv
+dataset_no5_must1_m50_l67: combined_s264.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s265.csv
+dataset_no5_must1_m50_l67: combined_s265.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s266.csv
+dataset_no5_must1_m50_l67: combined_s266.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s267.csv
+dataset_no5_must1_m50_l67: combined_s267.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s268.csv
+dataset_no5_must1_m50_l67: combined_s268.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s269.csv
+dataset_no5_must1_m50_l67: combined_s269.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s270.csv
+dataset_no5_must1_m50_l67: combined_s270.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s271.csv
+dataset_no5_must1_m50_l67: combined_s271.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s272.csv
+dataset_no5_must1_m50_l67: combined_s272.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s273.csv
+dataset_no5_must1_m50_l67: combined_s273.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s274.csv
+dataset_no5_must1_m50_l67: combined_s274.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s275.csv
+dataset_no5_must1_m50_l67: combined_s275.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s276.csv
+dataset_no5_must1_m50_l67: combined_s276.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s277.csv
+dataset_no5_must1_m50_l67: combined_s277.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s278.csv
+dataset_no5_must1_m50_l67: combined_s278.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s279.csv
+dataset_no5_must1_m50_l67: combined_s279.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s280.csv
+dataset_no5_must1_m50_l67: combined_s280.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s281.csv
+dataset_no5_must1_m50_l67: combined_s281.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s282.csv
+dataset_no5_must1_m50_l67: combined_s282.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s283.csv
+dataset_no5_must1_m50_l67: combined_s283.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s284.csv
+dataset_no5_must1_m50_l67: combined_s284.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s285.csv
+dataset_no5_must1_m50_l67: combined_s285.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s286.csv
+dataset_no5_must1_m50_l67: combined_s286.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s287.csv
+dataset_no5_must1_m50_l67: combined_s287.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s288.csv
+dataset_no5_must1_m50_l67: combined_s288.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s289.csv
+dataset_no5_must1_m50_l67: combined_s289.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s290.csv
+dataset_no5_must1_m50_l67: combined_s290.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s291.csv
+dataset_no5_must1_m50_l67: combined_s291.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s292.csv
+dataset_no5_must1_m50_l67: combined_s292.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s293.csv
+dataset_no5_must1_m50_l67: combined_s293.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s294.csv
+dataset_no5_must1_m50_l67: combined_s294.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s295.csv
+dataset_no5_must1_m50_l67: combined_s295.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s296.csv
+dataset_no5_must1_m50_l67: combined_s296.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s297.csv
+dataset_no5_must1_m50_l67: combined_s297.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s298.csv
+dataset_no5_must1_m50_l67: combined_s298.csv > OPTIMIZER: NOT_POSSIBLE
+Processing: dataset_no5_must1_m50_l67/combined_s299.csv
+dataset_no5_must1_m50_l67: combined_s299.csv > OPTIMIZER: NOT_POSSIBLE
