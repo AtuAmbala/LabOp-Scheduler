@@ -1,0 +1,51 @@
+student,slot 1,slot 2,slot 3
+1,Slot 6,Slot 7,Slot 8
+2,Slot 44,Slot 45,
+3,Slot 1,Slot 10,
+4,Slot 18,Slot 25,
+5,Slot 18,Slot 21,
+6,Slot 11,Slot 15,
+7,Slot 33,Slot 34,
+8,Slot 32,Slot 33,
+9,Slot 30,Slot 34,
+10,Slot 50,Slot 51,Slot 52
+11,Slot 9,Slot 53,Slot 54
+12,Slot 58,Slot 59,Slot 66
+13,Slot 55,Slot 56,Slot 57
+14,Slot 5,Slot 46,Slot 65
+15,Slot 47,Slot 48,Slot 49
+16,Slot 60,Slot 61,Slot 63
+17,Slot 62,Slot 64,Slot 67
+18,Slot 46,Slot 47,
+19,Slot 43,Slot 45,
+20,Slot 43,Slot 44,
+21,Slot 41,Slot 42,
+22,Slot 41,Slot 42,
+23,Slot 4,Slot 40,
+24,Slot 4,Slot 40,
+25,Slot 38,Slot 39,
+26,Slot 38,Slot 39,
+27,Slot 36,Slot 37,
+28,Slot 36,Slot 37,
+29,Slot 20,Slot 35,
+30,Slot 3,Slot 19,
+31,Slot 1,Slot 14,
+32,Slot 2,Slot 17,
+33,Slot 16,Slot 31,
+34,Slot 2,Slot 21,
+35,Slot 13,Slot 14,
+36,Slot 22,Slot 35,
+37,Slot 25,Slot 28,
+38,Slot 19,Slot 27,
+39,Slot 15,Slot 17,
+40,Slot 20,Slot 23,
+41,Slot 23,Slot 29,
+42,Slot 24,Slot 31,
+43,Slot 28,Slot 29,
+44,Slot 27,Slot 32,
+45,Slot 12,Slot 13,
+46,Slot 24,Slot 26,
+47,Slot 11,Slot 12,
+48,Slot 26,Slot 30,
+49,Slot 3,Slot 22,
+50,Slot 10,Slot 16,
