@@ -27,8 +27,8 @@ for t in slots:
 for s in students:
     for t in slots:
         value = preferences[(s,t)]
-        # if 'MUST' in value:
-        #     model += assign[(s,t)] == 1
+        if 'MUST' in value:
+            model += assign[(s,t)] == 1
         if 'CANNOT-SELECT' in value:
             model += assign[(s,t)] == 0
 model.solve()
@@ -40,3 +40,8 @@ else:
         chosen=[t for t in slots if pl.value(assign[(s,t)])>0.5][:3]
         rows.append([s]+chosen+['']*(3-len(chosen)))
     pd.DataFrame(rows,columns=['student','slot 1','slot 2','slot 3']).to_csv(output_path,index=False)
+    rows_slots=[]
+    for t in slots:
+        assigned_students = [s for s in students if pl.value(assign[(s,t)]) > 0.5]
+        rows_slots.append([t] + assigned_students)
+    pd.DataFrame(rows_slots, columns=['slot'] + students).to_csv(output_path.replace('.csv', '_by_slot.csv'), index=False)

@@ -1,12 +1,19 @@
 #!/usr/bin/env bash
 
-# how to use: ./run_all.sh /path/to/input_dir /path/to/output_dir [logfile]
-input_dir="${1:-.}"                 # where to search for CSVs
-output_dir="${2:-./outputs}"        # where to save all assignment results
-log="${3:-results.log}"             # log file name
-: > "$log"                          # clear log file
+# how to use: ./run_pipeline.sh [input_dir]
+# Defaults: input_dir defaults to ./sample_data_labops (script will only search that folder)
+# Outputs are written into ./sample_schedule_assignments (script will NOT create this dir)
+input_dir="${1:-./sample_data_labops}"                 # where to search for CSVs (defaults to sample_data_labops)
+output_dir="./sample_schedule_assignments"              # fixed output dir (do NOT auto-create)
+log="${2:-results.log}"                                 # log file name (optional second arg)
+: > "$log"                                              # clear log file
 
-mkdir -p "$output_dir"
+
+if [ ! -d "$output_dir" ]; then
+  echo "Output directory $output_dir does not exist. Not creating it per configuration. Exiting."
+  exit 1
+fi
+
 mapfile -t csv_files < <(find "$input_dir" -type f -name "*.csv")
 
 if [ ${#csv_files[@]} -eq 0 ]; then
@@ -18,12 +25,17 @@ count=0
 total=${#csv_files[@]}
 for f in "${csv_files[@]}"; do
   ((count++))
-  rel_path="${f#$input_dir/}"                              
+  rel_path="${f#$input_dir/}"
   rel_dir="$(dirname "$rel_path")"
-  mkdir -p "$output_dir/$rel_dir"                          
 
   base="$(basename "${f%.*}")"
-  out="$output_dir/$rel_dir/${base}_assignment.csv"
+  if [ "$rel_dir" = "." ]; then
+    prefix=""
+  else
+    prefix="${rel_dir//\//__}_"
+  fi
+
+  out="$output_dir/${prefix}${base}_assignment.csv"
 
   echo "[$count/$total] Processing: $f"
   msg=$(python LabOp_Optimizer_sifat.py "$f" "$out" 2>&1)
