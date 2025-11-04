@@ -1,9 +1,13 @@
 import sys
 import pandas as pd
 import pulp as pl
+import os
 
 input_path = sys.argv[1]
 output_path = sys.argv[2]
+input_path = os.path.join(os.getcwd(), input_path)
+output_path = os.path.join(os.getcwd(), output_path)
+print(input_path)
 df = pd.read_csv(input_path)
 students = df.iloc[:,0].astype(str).tolist()
 print(students)
@@ -18,8 +22,8 @@ for s in students:
     model += pl.lpSum(assign[(s,t)] for t in slots) >= 2
     model += pl.lpSum(assign[(s,t)] for t in slots) <= 3
 for t in slots:
-    model += pl.lpSum(assign[(s,t)] for s in students) >= 1
-    model += pl.lpSum(assign[(s,t)] for s in students) <= 2
+    # model += pl.lpSum(assign[(s,t)] for s in students) >= 1
+    model += pl.lpSum(assign[(s,t)] for s in students) == 2
 for s in students:
     for t in slots:
         value = preferences[(s,t)]
