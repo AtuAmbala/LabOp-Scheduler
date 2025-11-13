@@ -63,7 +63,7 @@ Every student has unique slots (no duplicates)
 
 All MUST-HAVE constraints are satisfied
 
-All UNAVAILABLE constraints are respected
+All UNAVAILABLE constraints are satisfied
 
 Slot-level checks:
 
