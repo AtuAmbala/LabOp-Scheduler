@@ -1,6 +1,6 @@
 """Generate random guard availability CSVs for labop scheduling.
 
-python labopDistribution.py --l 67 --m 50 --r 15 --u 1 --out outputfolder --seed 200 --num-sets 50
+python labop_distribution.py --l 67 --m 50 --r 15 --u 1 --out outputfolder --seed 200 --num-sets 50
 
     --l = number of slots
     --m = number of guards

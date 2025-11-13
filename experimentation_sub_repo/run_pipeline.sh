@@ -38,7 +38,7 @@ for f in "${csv_files[@]}"; do
   out="$output_dir/${prefix}${base}_assignment.csv"
 
   echo "[$count/$total] Processing: $f"
-  msg=$(python LabOp_Optimizer_sifat.py "$f" "$out" 2>&1)
+  msg=$(python labop_optimizer_sifat.py "$f" "$out" 2>&1)
 
   if echo "$msg" | grep -q 'NO OPTIMAL ASSIGNMENT'; then
     echo "$f,Infeasible" >> "$log"
