@@ -6,7 +6,7 @@ This repo contains a program that take student availability responses, build a s
 
 1. Create a new conda environment and install the dependencies using: `conda env create -f environment.yml`
 2. Activate the environment using: `conda activate labop-scheduler`
-3. Save the responses file in the **root directory** as: responses.csv
+3. Download the survey responses as a CSV file and save it in the root directory of the project as: responses.csv
 4. Run the pipeline using: `./run_scheduler.sh`
 5. The script will:
 
