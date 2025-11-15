@@ -1,0 +1,62 @@
+Checking responses...
+Total MUST-HAVE count: 8
+
+No violations detected.
+Running scheduler...
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /s/babbage/h/nobackup/nblancha/conda/mar2025/envs/labop-scheduler/lib/python3.13/site-packages/pulp/apis/../solverdir/cbc/linux/i64/cbc /tmp/84cf7a918f144d638edac49ead586d30-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /tmp/84cf7a918f144d638edac49ead586d30-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 1167 COLUMNS
+At line 18914 RHS
+At line 20077 BOUNDS
+At line 23429 ENDATA
+Problem MODEL has 1162 rows, 3351 columns and 11045 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Continuous objective value is 0 - 0.00 seconds
+Cgl0002I 987 variables fixed
+Cgl0004I processed model has 117 rows, 2355 columns (2355 integer (2355 of which binary)) and 4710 elements
+Cbc0045I No integer variables out of 2355 objects (2355 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0038I Initial state - 0 integers unsatisfied sum - 0
+Cbc0038I Solution found of 0
+Cbc0038I Before mini branch and bound, 2355 integers at bound fixed and 0 continuous
+Cbc0038I Mini branch and bound did not improve solution (0.03 seconds)
+Cbc0038I After 0.03 seconds - Feasibility pump exiting with objective of 0 - took 0.00 seconds
+Cbc0012I Integer solution of 0 found by feasibility pump after 0 iterations and 0 nodes (0.03 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.03 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.03
+Time (Wallclock seconds):       0.04
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+
+Checking output...
+Student schedule checks
+All students have unique slots.
+All MUST-HAVE constraints satisfied.
+All UNAVAILABLE constraints satisfied.
+
+Slot schedule checks
+All slots have unique students.
+Done!

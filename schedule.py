@@ -44,7 +44,7 @@ for s in students:
             model += assign[(s, t)] == 1
         if "UNAVAILABLE" in value:
             model += assign[(s, t)] == 0
-
+## Add a soft constraint: consecutive slots for students when possible
 model.solve()
 
 if pl.LpStatus[model.status] != 'Optimal':

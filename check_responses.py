@@ -16,6 +16,9 @@ for idx, row in df.iterrows():
             "MUST-HAVE": must_count,
             "UNAVAILABLE": unavailable_count
         })
+## if a slot has 3 MUST-HAVEs raise universal violation
+## if a slot has less than 2 AVAILABLES raise universal violation
+## for idx, col in df.itercols():
 
 print("Total MUST-HAVE count:", total_must)
 
