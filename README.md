@@ -28,8 +28,8 @@ The experimentation-sub-repo is where we test different algorithms and approache
 # How it works:
 
 ## check_responses.py
-This script checks your raw responses.csv before scheduling to make sure nothing breaks the solver.
 CLI Parameters: responses.csv
+This script checks your raw responses.csv before scheduling to make sure nothing breaks the solver.
 
 It verifies:
 
@@ -42,6 +42,8 @@ No student has more than 20 UNAVAILABLE slots.
 If anything violates these rules, it prints out exactly who and what went wrong.
 
 ## schedule.py
+CLI Parameters: responses.csv, schedule.csv
+
 This is implemented using an ILP scheduler.
 
 It builds a PuLP optimization model based on responses that assigns each student to 2–3 slots, ensures each slot gets up to 2 students, enforces these hard constraints:
@@ -54,6 +56,7 @@ If an optimal schedule exists, it outputs two schedules, one for each student, a
 
 ## check_output.py
 
+CLI Parameters: responses.csv, schedule_by_student.csv, schedule_by_slot.csv
 This script double-checks the scheduler output to ensure everything is valid.
 
 It verifies:

@@ -28,8 +28,6 @@ assign = pl.LpVariable.dicts(
     pl.LpBinary
 )
 
-model += 0
-
 for s in students:
     model += pl.lpSum(assign[(s, t)] for t in slots) >= 2
     model += pl.lpSum(assign[(s, t)] for t in slots) <= 3
@@ -44,8 +42,21 @@ for s in students:
             model += assign[(s, t)] == 1
         if "UNAVAILABLE" in value:
             model += assign[(s, t)] == 0
-## Add a soft constraint: consecutive slots for students when possible
-model.solve()
+
+consec_vars = {}
+for s in students:
+    for i in range(len(slots) - 1):
+        t1 = slots[i]
+        t2 = slots[i + 1]
+        y = pl.LpVariable(f"consec_{s}_{i}", 0, 1, pl.LpBinary)
+        consec_vars[(s, i)] = y
+        model += y <= assign[(s, t1)]
+        model += y <= assign[(s, t2)]
+        model += y >= assign[(s, t1)] + assign[(s, t2)] - 1
+
+model += -pl.lpSum(consec_vars.values())
+solver = pl.PULP_CBC_CMD(msg=1, timeLimit=60)
+model.solve(solver)
 
 if pl.LpStatus[model.status] != 'Optimal':
     print('NO OPTIMAL ASSIGNMENT')
