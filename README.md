@@ -29,6 +29,7 @@ The experimentation-sub-repo is where we test different algorithms and approache
 
 ## check_responses.py
 This script checks your raw responses.csv before scheduling to make sure nothing breaks the solver.
+CLI Parameters: responses.csv
 
 It verifies:
 

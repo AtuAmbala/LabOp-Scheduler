@@ -1,4 +1,4 @@
-## python check_output.py preferences.csv schedule_by_student.csv schedule_by_slot.csv
+## python check_output.py responses.csv schedule_by_student.csv schedule_by_slot.csv
 import sys
 import pandas as pd
 import os
