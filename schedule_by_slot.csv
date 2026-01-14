@@ -1,68 +1,68 @@
 slot,student 1,student 2
-9 AM - 10 AM,student1@email.com,student21@email.com
-10 AM -11 AM,student1@email.com,student21@email.com
-11 AM -12 PM,student14@email.com,student20@email.com
-12 PM -1 PM,student20@email.com,student37@email.com
-1 PM - 2 PM,student3@email.com,student37@email.com
-2 PM - 3 PM,student3@email.com,student37@email.com
-3 PM - 4 PM,student14@email.com,student40@email.com
-4 PM - 5 PM,student4@email.com,student40@email.com
-5 PM - 6 PM,student4@email.com,student13@email.com
+9 AM - 10 AM,student1@email.com,student8@email.com
+10 AM -11 AM,student1@email.com,student8@email.com
+11 AM -12 PM,student8@email.com,student20@email.com
+12 PM -1 PM,student14@email.com,student20@email.com
+1 PM - 2 PM,student3@email.com,student14@email.com
+2 PM - 3 PM,student14@email.com,student26@email.com
+3 PM - 4 PM,student26@email.com,student37@email.com
+4 PM - 5 PM,student12@email.com,student37@email.com
+5 PM - 6 PM,student3@email.com,student37@email.com
 6 PM - 7 PM,student3@email.com,student13@email.com
-7 PM - 8 PM,student13@email.com,student43@email.com
-8 PM - 9 PM,student2@email.com,student43@email.com
+7 PM - 8 PM,student7@email.com,student13@email.com
+8 PM - 9 PM,student7@email.com,student13@email.com
 9 AM - 10 AM2,student2@email.com,student43@email.com
-10 AM -11 AM2,student8@email.com,student21@email.com
-11 AM -12 PM2,student8@email.com,student27@email.com
+10 AM -11 AM2,student21@email.com,student43@email.com
+11 AM -12 PM2,student2@email.com,student27@email.com
 12 PM -1 PM2,student2@email.com,student27@email.com
-1 PM - 2 PM2,student27@email.com,student33@email.com
-2 PM - 3 PM2,student10@email.com,student33@email.com
+1 PM - 2 PM2,student10@email.com,student27@email.com
+2 PM - 3 PM2,student10@email.com,student32@email.com
 3 PM - 4 PM2,student10@email.com,student32@email.com
 4 PM - 5 PM2,student24@email.com,student32@email.com
-5 PM - 6 PM2,student24@email.com,student32@email.com
+5 PM - 6 PM2,student9@email.com,student24@email.com
 6 PM - 7 PM2,student9@email.com,student24@email.com
 7 PM - 8 PM2,student9@email.com,student45@email.com
-8 PM - 9 PM2,student9@email.com,student45@email.com
-9 AM - 10 AM3,student26@email.com,student34@email.com
-10 AM -11 AM3,student26@email.com,student34@email.com
-11 AM -12 PM3,student12@email.com,student26@email.com
-12 PM -1 PM3,student12@email.com,student15@email.com
-1 PM - 2 PM3,student12@email.com,student15@email.com
-2 PM - 3 PM3,student15@email.com,student50@email.com
-3 PM - 4 PM3,student36@email.com,student50@email.com
-4 PM - 5 PM3,student7@email.com,student36@email.com
-5 PM - 6 PM3,student7@email.com,student36@email.com
-6 PM - 7 PM3,student7@email.com,student11@email.com
-7 PM - 8 PM3,student11@email.com,student42@email.com
-8 PM - 9 PM3,student11@email.com,student42@email.com
-9 AM - 10 AM4,student16@email.com,student42@email.com
-10 AM -11 AM4,student16@email.com,student28@email.com
-11 AM -12 PM4,student18@email.com,student28@email.com
-12 PM -1 PM4,student16@email.com,student18@email.com
-1 PM - 2 PM4,student18@email.com,student38@email.com
-2 PM - 3 PM4,student22@email.com,student38@email.com
-3 PM - 4 PM4,student22@email.com,student39@email.com
-4 PM - 5 PM4,student22@email.com,student39@email.com
-5 PM - 6 PM4,student5@email.com,student39@email.com
-6 PM - 7 PM4,student5@email.com,student30@email.com
-7 PM - 8 PM4,student5@email.com,student30@email.com
-8 PM - 9 PM4,student30@email.com,student47@email.com
-9 AM - 10 AM5,student31@email.com,student47@email.com
-10 AM -11 AM5,student23@email.com,student31@email.com
-11 AM -12 PM5,student23@email.com,student46@email.com
-12 PM -1 PM5,student23@email.com,student46@email.com
-1 PM - 2 PM5,student35@email.com,student46@email.com
-2 PM - 3 PM5,student17@email.com,student35@email.com
-3 PM - 4 PM5,student17@email.com,student35@email.com
-4 PM - 5 PM5,student17@email.com,student25@email.com
-12 PM -1 PM6,student25@email.com,student29@email.com
-1 PM - 2 PM6,student25@email.com,student29@email.com
-2 PM - 3 PM6,student6@email.com,student29@email.com
-3 PM - 4 PM6,student6@email.com,student44@email.com
-4 PM - 5 PM6,student19@email.com,student44@email.com
-12 PM -1 PM7,student19@email.com,student41@email.com
-1 PM - 2 PM7,student41@email.com,student44@email.com
-2 PM - 3 PM7,student41@email.com,student47@email.com
-3 PM - 4 PM7,student48@email.com,student49@email.com
-4 PM - 5 PM7,student48@email.com,student49@email.com
-5 PM - 6 PM3.1,student48@email.com,student49@email.com
+8 PM - 9 PM2,student15@email.com,student45@email.com
+9 AM - 10 AM3,student15@email.com,student45@email.com
+10 AM -11 AM3,student12@email.com,student36@email.com
+11 AM -12 PM3,student12@email.com,student36@email.com
+12 PM -1 PM3,student34@email.com,student36@email.com
+1 PM - 2 PM3,student4@email.com,student34@email.com
+2 PM - 3 PM3,student4@email.com,student17@email.com
+3 PM - 4 PM3,student17@email.com,student42@email.com
+4 PM - 5 PM3,student17@email.com,student42@email.com
+5 PM - 6 PM3,student7@email.com,student42@email.com
+6 PM - 7 PM3,student11@email.com,student29@email.com
+7 PM - 8 PM3,student11@email.com,student34@email.com
+8 PM - 9 PM3,student11@email.com,student31@email.com
+9 AM - 10 AM4,student22@email.com,student31@email.com
+10 AM -11 AM4,student22@email.com,student44@email.com
+11 AM -12 PM4,student22@email.com,student44@email.com
+12 PM -1 PM4,student44@email.com,student46@email.com
+1 PM - 2 PM4,student39@email.com,student46@email.com
+2 PM - 3 PM4,student39@email.com,student46@email.com
+3 PM - 4 PM4,student16@email.com,student39@email.com
+4 PM - 5 PM4,student6@email.com,student33@email.com
+5 PM - 6 PM4,student6@email.com,student33@email.com
+6 PM - 7 PM4,student6@email.com,student33@email.com
+7 PM - 8 PM4,student16@email.com,student40@email.com
+8 PM - 9 PM4,student30@email.com,student40@email.com
+9 AM - 10 AM5,student30@email.com,student40@email.com
+10 AM -11 AM5,student5@email.com,student38@email.com
+11 AM -12 PM5,student5@email.com,student38@email.com
+12 PM -1 PM5,student21@email.com,student38@email.com
+1 PM - 2 PM5,student5@email.com,student21@email.com
+2 PM - 3 PM5,student4@email.com,student43@email.com
+3 PM - 4 PM5,student26@email.com,student41@email.com
+4 PM - 5 PM5,student23@email.com,student41@email.com
+12 PM -1 PM6,student15@email.com,student23@email.com
+1 PM - 2 PM6,student23@email.com,student41@email.com
+2 PM - 3 PM6,student28@email.com,student30@email.com
+3 PM - 4 PM6,student25@email.com,student28@email.com
+4 PM - 5 PM6,student25@email.com,student28@email.com
+12 PM -1 PM7,student25@email.com,student29@email.com
+1 PM - 2 PM7,student19@email.com,student29@email.com
+2 PM - 3 PM7,student16@email.com,student19@email.com
+3 PM - 4 PM7,student18@email.com,student19@email.com
+4 PM - 5 PM7,student18@email.com,student35@email.com
+5 PM - 6 PM3.1,student18@email.com,student35@email.com
