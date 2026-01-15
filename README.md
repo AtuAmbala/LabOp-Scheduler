@@ -7,14 +7,15 @@ This repo contains a program that take student availability responses, build a s
 1. Create a new conda environment and install the dependencies using: `conda env create -f environment.yml`
 2. Activate the environment using: `conda activate labop-scheduler`
 3. Download the survey responses as a CSV file and save it in the root directory of the project as: responses.csv
-4. Run the pipeline using: `./run_scheduler.sh`
-5. The script will:
+4. If you want to optimize for contiguous slots, edit the `config.py` file and set `SCHEDULE_MODE = "CONTIGUOUS"`; otherwise, set `SCHEDULE_MODE = "SPREAD"`.
+5. Run the pipeline using: `./run_scheduler.sh`
+6. The script will:
 
    - Check the responses (`check_responses.py`)
    - Build the schedule (`schedule.py`)
    - Validate the output (`check_output.py`)
 
-5. If the problem is feasible, you'll get two output files:
+7. If the problem is feasible, you'll get two output files:
 
 - `schedule_by_student.csv`
 - `schedule_by_slot.csv`
@@ -26,6 +27,9 @@ That’s it. Keep the CSV in the root directory and run the script whenever you 
 The experimentation-sub-repo is where we test different algorithms and approaches to solve the scheduling problem. It does not pertain to the user unless they want to contribute or provide feedback.
 
 # How it works:
+
+## config.py
+This file currently has one parameter: `SCHEDULE_MODE`, which can be set to either `CONTIGUOUS` or `SPREAD`. `CONTIGUOUS` tries to assign students to back-to-back slots, while `SPREAD` ignores the contiguity constraint and finds any solution (which tends to be rather spread out).
 
 ## check_responses.py
 CLI Parameters: responses.csv
