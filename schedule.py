@@ -2,11 +2,10 @@ import sys
 import pandas as pd
 import pulp as pl
 import os
+import config
 
-input_path = sys.argv[1]
-output_path = sys.argv[2]
-input_path = os.path.join(os.getcwd(), input_path)
-output_path = os.path.join(os.getcwd(), output_path)
+input_path = os.path.join(os.getcwd(), sys.argv[1])
+output_path = os.path.join(os.getcwd(), sys.argv[2])
 
 df = pd.read_csv(input_path)
 
@@ -19,9 +18,10 @@ preferences = {
     for t in slots
 }
 
-model = pl.LpProblem('slot_assignment', pl.LpMinimize)
+model = pl.LpProblem("slot_assignment", pl.LpMinimize)
+
 assign = pl.LpVariable.dicts(
-    'assign',
+    "assign",
     [(s, t) for s in students for t in slots],
     0,
     1,
@@ -43,21 +43,22 @@ for s in students:
         if "UNAVAILABLE" in value:
             model += assign[(s, t)] == 0
 
-consec_vars = {}
-for s in students:
-    for i in range(len(slots) - 1):
-        t1 = slots[i]
-        t2 = slots[i + 1]
-        y = pl.LpVariable(f"consec_{s}_{i}", 0, 1, pl.LpBinary)
-        consec_vars[(s, i)] = y
-        model += y <= assign[(s, t1)]
-        model += y <= assign[(s, t2)]
-        model += y >= assign[(s, t1)] + assign[(s, t2)] - 1
+if config.SCHEDULE_MODE == "CONTIGUOUS":
+    consec_vars = []
+    for s in students:
+        for i in range(len(slots) - 1):
+            t1, t2 = slots[i], slots[i + 1]
+            y = pl.LpVariable(f"consec_{s}_{i}", 0, 1, pl.LpBinary)
+            model += y <= assign[(s, t1)]
+            model += y <= assign[(s, t2)]
+            model += y >= assign[(s, t1)] + assign[(s, t2)] - 1
+            consec_vars.append(y)
+    model += -pl.lpSum(consec_vars)
+else:
+    model += 0
 
-model += -pl.lpSum(consec_vars.values())
 solver = pl.PULP_CBC_CMD(msg=1, timeLimit=60)
 model.solve(solver)
-
 if pl.LpStatus[model.status] != 'Optimal':
     print('NO OPTIMAL ASSIGNMENT')
 else:
