@@ -1,2 +1,5 @@
 sample_data_labops/
 sample_assignments/
+__pycache__/
+*.pyc
+.pytest_cache/
