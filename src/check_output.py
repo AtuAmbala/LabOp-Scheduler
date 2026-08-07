@@ -4,6 +4,9 @@ import pandas as pd
 import os
 import math
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from labop_common import MUST_HAVE, SLOTS_PER_STUDENT, STUDENTS_PER_SLOT, UNAVAILABLE, get_slot_columns
+
 def clean_slot_list(values):
     result = []
     for v in values:
@@ -20,7 +23,7 @@ def main():
     prefs_df = pd.read_csv(prefs_path)
     student_df = pd.read_csv(student_sched_path)
     slot_df = pd.read_csv(slot_sched_path)
-    slot_columns = prefs_df.columns[8:].tolist()
+    slot_columns = get_slot_columns(prefs_df)
     prefs_by_email = {}
     for _, row in prefs_df.iterrows():
         email = str(row["Email"]).strip()
@@ -28,9 +31,10 @@ def main():
     student_slot_uniq_violations = []
     must_have_violations = []
     unavailable_violations = []
+    student_slot_cols = [f"slot {i + 1}" for i in range(SLOTS_PER_STUDENT)]
     for i, row in student_df.iterrows():
         email = str(row["student_email"]).strip()
-        assigned_slots = clean_slot_list([row["slot 1"], row["slot 2"], row["slot 3"]])
+        assigned_slots = clean_slot_list([row[c] for c in student_slot_cols])
         if len(assigned_slots) != len(set(assigned_slots)):
             student_slot_uniq_violations.append(email)
         if email not in prefs_by_email:
@@ -42,14 +46,15 @@ def main():
                 pref = ""
             else:
                 pref = str(value).strip().upper()
-            if "MUST-HAVE" in pref and slot not in assigned_slots:
+            if MUST_HAVE in pref and slot not in assigned_slots:
                 must_have_violations.append((email, slot))
-            if "UNAVAILABLE" in pref and slot in assigned_slots:
+            if UNAVAILABLE in pref and slot in assigned_slots:
                 unavailable_violations.append((email, slot))
+    slot_student_cols = [f"student {i + 1}" for i in range(STUDENTS_PER_SLOT)]
     slot_unique_student_violations = []
     for _, row in slot_df.iterrows():
         slot_name = str(row["slot"]).strip()
-        students_in_slot = clean_slot_list([row["student 1"], row["student 2"]])
+        students_in_slot = clean_slot_list([row[c] for c in slot_student_cols])
         if len(students_in_slot) != len(set(students_in_slot)):
             slot_unique_student_violations.append(slot_name)
     print("Student schedule checks")
