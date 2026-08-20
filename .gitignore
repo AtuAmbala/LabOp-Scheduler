@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .DS_Store
+experimentation/spring-2026/experimentation_sub_repo/sample_schedule_assignments
+raw/
