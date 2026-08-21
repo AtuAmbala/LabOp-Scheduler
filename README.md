@@ -10,15 +10,6 @@ This repo contains a program that takes student availability responses, builds a
 - `experimentation/fall-2026/` - current-semester stress-test tooling (synthetic data generator + feasibility sweep + tests) for finding safe MUST-HAVE/UNAVAILABLE limits
 - `experimentation/spring-2026/` - prior semester's experimentation (`experimentation_sub_repo`, `copilot-testing`); kept for reference, not part of the production pipeline
 
-## This semester's constraints (Fall 2026)
-
-Labop hours are **10 AM - 6 PM Monday-Thursday** and **10 AM - 5 PM Friday**, which gives exactly **39 one-hour slots** (8+8+8+8+7). With **39 students** each working **exactly 2 hours** and **2 labops required per slot**, the numbers match exactly (39 x 2 = 78 = 39 x 2) - a fully-subscribed, feasible schedule uses every student-hour and every slot-seat with nothing left over.
-
-Because of this, `src/schedule.py` assigns each student **exactly 2** slots (not a 2-3 range like in past semesters). A student with more than 2 MUST-HAVE slots can never be satisfied, so `src/check_responses.py` now flags any student with more than 2 MUST-HAVEs.
-
-The survey now also asks each student whether they prefer consecutive or spread-out slots. That answer is captured in the data but **not yet used by the solver** - the global `SCHEDULE_MODE` setting in `config.py` still applies the same contiguous-vs-spread objective to everyone. Using the per-student answer instead is a natural follow-up if it's wanted.
-
-See `experimentation/fall-2026/README.md` for the tooling used to figure out what MUST-HAVE/UNAVAILABLE limits keep the schedule reliably feasible.
 
 ## How to Use
 
@@ -104,3 +95,6 @@ Slot-level checks:
 - No slot accidentally assigns the same student twice
 
 If anything is wrong, it prints the exact violations.
+
+
+See `experimentation/fall-2026/README.md` for the tooling used to figure out what MUST-HAVE/UNAVAILABLE limits keep the schedule reliably feasible.
