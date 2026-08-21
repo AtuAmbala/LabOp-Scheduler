@@ -6,3 +6,5 @@ __pycache__/
 .DS_Store
 experimentation/spring-2026/experimentation_sub_repo/sample_schedule_assignments
 raw/
+output-schedule
+v1_schedule/
